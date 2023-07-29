@@ -1,0 +1,1045 @@
+﻿objectid,plazacode,plazaname,concessionairetype,plazatype,city,state,concessionairename,longitude,latitude
+1045,1002,L&T Vadodra,Conc.,National,Vadodara,Gujarat,L&T,22.015027,73.115049
+1046,2001,Boriach Toll Plaza,PF,National,Navsari,Gujarat,NHAI,20.885548,73.052162
+1047,2002,Charoti Toll Plaza,PF,National,Palghar,Maharashtra,NHAI,19.890544,72.942644
+1048,2003,Bhagwada Toll Plaza,PF,National,Valsad,Gujarat,NHAI,20.43495,72.917204
+1049,2004,Choryasi Toll Plaza,PF,National,Surat,Gujarat,NHAI,21.303367,72.95418
+1050,2005,Ahmedabad Toll Plaza,Conc.,National,Ahmedabad,Gujarat,IRB,22.975793,72.650335
+1051,2006,Ahmedabad (Ring Road) Toll Pl,Conc.,National,Ahmedabad,Gujarat,IRB,22.973846,72.473028
+1052,2007,Nadiad Toll Plaza,Conc.,National,Kheda,Gujarat,IRB,22.696475,72.896397
+1053,2008,Anand Toll Plaza,Conc.,National,Anand,Gujarat,IRB,22.594556,72.981298
+1054,2009,Vadodara Toll Plaza,Conc.,National,Vadodara,Gujarat,IRB,22.413798,73.149308
+1055,2011,Kheda,Conc.,National,Kheda,Gujarat,IRB,22.715938,72.740905
+1056,2012,Vasad,Conc.,National,Anand,Gujarat,IRB,22.453302,73.070523
+1057,6001,Gegal,Conc.,National,Ajmer,Rajasthan,Soma Isolux,26.551347,74.780202
+1058,6002,Pipalaz,Conc.,National,Ajmer,Rajasthan,Soma Isolux,26.158577,74.371572
+1059,7001,Manesar Toll Plaza,Conc.,National,Gurgaon,Haryana,Millinieum City  Expressway,28.395604,76.98176
+1060,7002,IGI Toll Plaza,Conc.,National,New Delhi,Delhi,Millinieum City  Expressway,28.543853,77.115435
+1061,8001,Jaipur Plaza,Conc.,National,Jaipur,Rajasthan,GVK,26.843328,75.615578
+1062,8002,Kishangarh Plaza,Conc.,National,Ajmer,Rajasthan,GVK,26.595329,74.939169
+1063,9001,Shahjahanpur Toll Plaza,Conc.,National,Alwar,Rajasthan,Pink City Expressway,27.99978,76.430522
+1064,9002,Manoharpura Toll Plaza,Conc.,National,Jaipur,Rajasthan,Pink City Expressway,27.3056399,75.9535128
+1065,9003,Daulatpura Toll Plaza,Conc.,National,Jaipur,Rajasthan,Pink City Expressway,27.0868994,75.8345568
+1066,10002,Jojro Ka Kheda Toll Plaza,Conc.,National,Chittaurgarh,Rajasthan,IRB,25.082922,74.624379
+1067,10004,Narayanpura Toll Plaza,Conc.,National,Udaipur,Rajasthan,NHAI,24.613529,74.233079
+1068,10006,Khandi Obri Toll Plaza,Conc.,National,Udaipur,Rajasthan,IRB,23.993636,73.627895
+1069,14001,Ambala Chandigarh,Conc.,National,Sahibzada Ajit Singh Nagar,Punjab,GMR,30.527449,76.813037
+1070,15001,Pantangi,Conc.,National,Nalgonda,Telangana,GMR,17.232887,78.960464
+1071,15002,Koralaphad,Conc.,National,Nalgonda,Telangana,GMR,17.159784,79.475426
+1072,15003,Chillakallu,Conc.,National,Krishna,Andhra Pradesh,GMR,16.885015,80.160654
+1073,16001,Vanagiri,Conc.,National,Koppal,Karnataka,GMR,15.819341,76.174865
+1074,16002,Shahapur,Conc.,National,Koppal,Karnataka,GMR,15.357898,76.312781
+1075,16003,Hitnal,Conc.,National,Koppal,Karnataka,GMR,15.323649,76.303646
+1076,17001,Karjeevanhally Toll Plaza,Conc.,National,Tumkur,Karnataka,IRB,13.612918,76.953866
+1077,17002,Guilalu Toll Plaza,Conc.,National,Chitradurga,Karnataka,IRB,14.053778,76.560573
+1078,18001,Vikkravandi Toll Plaza,Conc.,National,Villupuram,Tamil Nadu,Ulundurpet Expressway(IDFC),12.024441,79.538059
+1079,19001,SENGURICHI Toll Plaza,Conc.,National,Villupuram,Tamil Nadu,Trichy Tollways Pvt Ltd,11.706434,79.322335
+1080,19002,THIRUMANDURAI Toll Plaza,Conc.,National,Perambalur,Tamil Nadu,Trichy Tollways Pvt Ltd,11.396808,78.99356
+1081,24001,MANSAR Toll Plaza,Conc.,National,Nagpur,Maharashtra,NHAI,21.382312,79.25332
+1082,24002,Kamptee Kanhan Bypass,Conc.,National,Nagpur,Maharashtra,NHAI,21.244457,79.2490091
+1083,24003,NAGPUR BYPASS CHECK TOLL PLAZ,Conc.,National,Nagpur,Maharashtra,NHAI,20.2299353,79.0131934
+1084,24004,Borkhedi Toll Plaza,Conc.,National,Wardha,Maharashtra,NHAI,20.85612,78.963632
+1085,25001,Karanja Toll Plaza,Conc.,National,Wardha,Maharashtra,NHAI,21.157585,78.388033
+1086,26001,Korai Toll Plaza,Conc.,National,Agra,Uttar Pradesh,Bhubaneswar Expressway,27.114895,77.715981
+1087,27001,Khalghat Toll Plaza,Conc.,National,Dhar,Madhya Pradesh,NHAI,22.173782,75.456797
+1088,28001,Barajore Toll Plaza,Conc.,National,Kanpur Dehat,Uttar Pradesh,NHAI,26.3854208,80.018945
+1089,28002,Anantram Toll Plaza,Conc.,National,Auraiya,Uttar Pradesh,NHAI,26.594931,79.268034
+1090,29001,Laxamannath Plaza,Conc.,National,Bangalore Rural,Karnataka,NHAI,13.193545,77.64981
+1091,29002,Rampura Plaza,Conc.,National,West Medinipur,West Bengal,NHAI,22.24076,87.39207
+1092,30001,LADPALWAN Toll Plaza,Conc.,National,Pathankot,Punjab,IRB,32.197881,75.533697
+1093,30002,WARYAM NANGAL Toll Plaza,Conc.,National,Amritsar,Punjab,IRB,31.731947,75.041365
+1094,31001,Barkheda Toll Plaza,Conc.,National,Jaipur,Rajasthan,IRB,26.68816,75.904726
+1095,31002,Sonwa Toll Plaza,Conc.,National,Tonk,Rajasthan,IRB,26.1098541,75.7435763
+1096,32001,Omalur Toll Plaza,Conc.,National,Salem,Tamil Nadu,IRB,11.72034,78.07338
+1097,33001,Daffi Toll Plaza,Conc.,National,Varanasi,Uttar Pradesh,Bhilwara Rajsamand Tollway,25.248275,82.994017
+1098,33002,Mohania Toll Plaza,Conc.,National,Kaimur,Bihar,KNR Tollways Pvt. Ltd.,25.1882337,83.5615933
+1099,33003,Sasaram Toll Plaza,Conc.,National,Rohtas,Bihar,Khed -Sinnar Expressway,24.957125,83.954997
+1100,34001,Raikal Toll Plaza,Conc.,National,Mahabubnagar,Telangana,NAVAYUGA UDUPI TOLLWAY PVT LTD,17.005867,78.194493
+1101,35001,Electronic City Phase 1,Conc.,National,Bangalore Urban,Karnataka,NAVAYUGA UDUPI TOLLWAY PVT LTD,12.84615,77.671765
+1102,35002,ATTIBELLE,Conc.,National,Bangalore Urban,Karnataka,BETL,12.776883,77.777119
+1103,36001,Samayapuram Toll Plaza,Conc.,National,Tiruchirappalli,Tamil Nadu,Indu Navayuga,10.92937,78.744056
+1104,39001,L&T PANIPAT,Conc.,National,Panipat,Haryana,L&T,29.433664,76.97014
+1105,40001,Khaniwade Toll Plaza,Conc.,National,Palghar,Maharashtra,IRB,19.519667,72.916898
+1106,41001,JATL Dhilwan Toll Plaza,Conc.,National,Kapurthala,Punjab,IVRCL,31.499318,75.323065
+1107,41002,JATL Nijjerpura Toll Plaza,Conc.,National,Amritsar,Punjab,IVRCL,31.577704,74.997072
+1108,42001,Vijayamangalam Toll Plaza,Conc.,National,Erode,Tamil Nadu,IVRCL,11.245714,77.519702
+1109,43001,Vaiguntham Toll Plaza,Conc.,National,Salem,Tamil Nadu,IVRCL,11.513282,77.923946
+1110,44001,TASAWADE Toll Plaza,Conc.,National,Satara,Maharashtra,MSRDCL,17.365756,74.122928
+1111,44002,Kini Toll Plaza,Conc.,National,Kolhapur,Maharashtra,MSRDCL,16.8767054,74.2983001
+1112,45001,Guduru Toll Plaza,Conc.,National,Nalgonda,Telangana,Sadbhav,17.485724,78.8217
+1113,46001,Bijapur Toll Plaza,Conc.,National,Bijapur,Karnataka,Sadbhav,16.786741,75.739648
+1114,46002,Nagarhalla Toll Plaza,Conc.,National,Bagalkot,Karnataka,Sadbhav,16.290371,75.923507
+1115,47001,Tatiawas Toll Plaza,Conc.,National,Jaipur,Rajasthan,Reliance,27.089775,75.7415
+1116,48001,Sullurpet Plaza (NH-16),Conc.,National,Nellore,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED,13.744936,79.990993
+1117,48002,Budhanam Plaza (NH- 16),Conc.,National,Nellore,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED,14.059589,79.894624
+1118,48003,Nellore Plaza (NH- 16),Conc.,National,Nellore,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED,14.312218,79.916296
+1119,48004,Keesara Plaza (NH-65),Conc.,National,Vijaywada,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED,16.718077,80.324314
+1120,49001,Kaza Toll Plaza Mangalgiri,Conc.,National,Guntur,Andhra Pradesh,IJM,16.3856,80.53367
+1121,50001,Niyamatpur Ekrotiya Toll Plaz,Conc.,National,Moradabad,Uttar Pradesh,Moradabad Bareilly Expressway,28.814182,78.902248
+1122,50002,Thiriya Khetal Toll Plaza,Conc.,National,Bareilly,Uttar Pradesh,Moradabad Bareilly Expressway,28.480289,79.283886
+1123,51001,Sawaleshwar Toll Plaza,Conc.,National,Solapur,Maharashtra,ILFS & ITNL,17.7643864,75.7558759
+1124,51002,Varwade Toll Plaza,Conc.,National,Solapur,Maharashtra,ILFS & ITNL,17.957556,75.330977
+1125,52001,Pithadiya Toll Plaza,Conc.,National,Rajkot,Gujarat,ILFS,22.082642,70.781004
+1126,52002,Bharudi Toll Plaza,Conc.,National,Rajkot,Gujarat,ILFS,21.805381,70.663976
+1127,53001,Gondkhairi Plaza,Conc.,National,Nagpur,Maharashtra,Atlanata Infra,21.137001,78.89666
+1128,54001,Patas Plaza,Conc.,National,Pune,Maharashtra,TRIL,18.424491,74.466193
+1129,54002,Sardewadi Plaza,Conc.,National,Raigad,Maharashtra,TRIL,18.096508,75.0661222
+1130,55001,Ponnambalapatti Plaza,Conc.,National,Tiruchirappalli,Tamil Nadu,Reliance,10.536356,78.257059
+1131,56001,Kozhinjiipatti Plaza,Conc.,National,Dindigul,Tamil Nadu,Reliance,10.194334,77.909215
+1132,57001,Rasampalayam Plaza,Conc.,National,Namakkal,Tamil Nadu,Reliance,11.193895,78.103219
+1133,58001,Mettupatti Plaza,Conc.,National,Salem,Tamil Nadu,Reliance,11.661687,78.330731
+1134,58002,Nathakkarai Plaza,Conc.,National,Salem,Tamil Nadu,Reliance,11.592809,78.780812
+1135,58003,Veeracholapuram Plaza,Conc.,National,Villupuram,Tamil Nadu,Reliance,11.736464,79.010409
+1136,59001,Thiruparaithurai Plaza,Conc.,National,Tiruchirappalli,Tamil Nadu,Reliance,10.885791,78.557668
+1137,59002,Manavasi Plaza,Conc.,National,Karur,Tamil Nadu,Reliance,10.931722,78.218401
+1138,60001,Krishnagiri Plaza,Conc.,National,Krishnagiri,Tamil Nadu,Reliance,12.544583,78.201132
+1139,61001,Anewadi Toll Plaza,Conc.,National,Satara,Maharashtra,Reliance,17.810312,73.971381
+1140,61002,Khed-Shivapur Toll Plaza,Conc.,National,Pune,Maharashtra,Reliance,18.3313849,73.8525197
+1141,62001,Srinagar Toll Plaza,Conc.,National,Palwal,Haryana,Reliance,28.00548,77.332377
+1142,62002,Mahuvan Toll Plaza,Conc.,National,Mathura,Uttar Pradesh,Reliance,27.337188,77.737458
+1143,63001,Bhatwada Toll Plaza,Conc.,National,Dahod,Gujarat,Highway Concessions,22.79296,73.842845
+1144,63101,Bellupada,TOT,National,Icchapuram,Andhra Pradesh,NHAI,19.111282,84.699281
+1145,69001,Vempadu,TOT,National,Vishakhapatnam,Andhra Pradesh,NHAI,17.397831,82.67582
+1146,70001,Krishnavaram,TOT,National,East Godavari,Andhra Pradesh,NHAI,17.215448,82.1107
+1147,73001,Bollapalli Toll Plaza,Conc.,National,Prakasam,Andhra Pradesh,Saimbhapuri Expressway Ltd.,15.886754,80.070843
+1148,73002,Tangatur Toll Plaza,Conc.,National,Prakasam,Andhra Pradesh,Saimbhapuri Expressway Ltd.,15.358166,80.040105
+1149,73003,Musunur Toll Plaza,Conc.,National,Nellore,Andhra Pradesh,Saimbhapuri Expressway Ltd.,14.851945,79.987847
+1150,78001,Indalwai,Conc.,National,Nizamabad,Telangana,Navayuga,18.538284,78.239718
+1151,79001,Sakapur Toll Plaza,Conc.,National,Mahabubnagar,Telangana,L&T,16.5356759,77.9444736
+1152,84001,Hariabara,Conc.,National,Araria,Bihar,SMS,26.152636,87.445216
+1153,85001,Asanpur  Toll Plaza,Conc.,National,Supaul,Bihar,SMS,26.297778,86.632891
+1154,87001,Maithi,Conc.,National,Muzaffarpur,Bihar,SMS,26.112648,85.564827
+1155,91001,Durg By pass,Conc.,National,Durg,Chhattisgarh,SMS Shivnath Infrastructure,21.214518,81.287962
+1156,92001,Thakurtolla Toll Plaza,Conc.,National,Rajnandgaon,Chhattisgarh,Ashoka Buildcon,21.117914,81.122298
+1157,96001,Surajbari Toll Plaza,TOT,National,Kutch,Gujarat,NHAI,23.233738,70.689457
+1158,97001,Vaghasiya Toll Plaza,TOT,National,Morbi,Gujarat,Safeway Concessions,22.42301,71.088805
+1159,98001,Vanana Toll Plaza,TOT,National,Porbandar,Gujarat,Safeway Concessions,21.664929,69.709536
+1160,99001,Dhumiyani Toll Plaza,TOT,National,Rajkot,Gujarat,NHAI,21.751451,70.326793
+1161,100001,Samakhiali,Conc.,National,Kutch,Gujarat,L&T,23.308555,70.49059
+1162,103001,Jat Gangaicha Toll Plaza,Conc.,National,Rewari,Haryana,Kurukshetra Expressways,28.275006,76.613363
+1163,103002,Dighal Toll Plaza,Conc.,National,Jhajjar,Haryana,Kurukshetra Expressways,28.776746,76.621688
+1164,104001,Makrauli Kalan Toll Plaza,Conc.,National,Rohtak,Haryana,Sadbhav,28.944307,76.609736
+1165,104002,Dahar Toll Plaza,Conc.,National,Panipat,Haryana,Sadbhav,29.31922,76.918442
+1166,111001,Hirebgewadi Toll Plaza,Conc.,National,Belagavi,Karnataka,Ashoka Buildcon,15.76311,74.64785
+1167,115001,Kulumapalya Toll Plaza,Conc.,National,Bangalore Rural,Karnataka,Jass Tollways,13.114638,77.37463
+1168,115002,Chokkenahalli Toll Plaza,Conc.,National,Tumkur,Karnataka,Jass Tollways,13.302065,77.161956
+1169,116001,Navayuga Bangalooru Tollway,Conc.,National,Bangalore Rural,Karnataka,Navayuga,13.090678,77.399788
+1170,116003,Devanahalli Toll Plaza,Conc.,National,Bangalore Rural,Karnataka,Navayuga,13.1935464,77.6475256
+1171,118002,Bellur Toll Plaza,Conc.,National,Mandya,Karnataka,LANCO DEVANHALI TOLLWAY LTD,12.9628049,76.7704144
+1172,119001,Hoskote Toll Plaza,Conc.,National,Bangalore Rural,Karnataka,LANCO HOSKOTE TOLLWAY LTD,13.059436,77.770734
+1173,119002,Mulbagal Toll Plaza,Conc.,National,Kolar,Karnataka,LANCO HOSKOTE TOLLWAY LTD,13.148469,78.290548
+1174,120001,Shantigrama  Toll Plaza,Conc.,National,Hassan,Karnataka,L&T,12.982709,76.228913
+1175,120002,Kadabhalli (Kirasave) Toll Pl,Conc.,National,Mandya,Karnataka,L&T,12.958304,76.623563
+1176,123001,Paliyekkara Toll Plaza,Conc.,National,Thrissur,Kerala,Guruvayoor,10.442916,76.260181
+1177,124001,Kumbalam Toll Plaza,Conc.,National,Ernakulam,Kerala,Kochi Aror Tollways,9.895245,76.313541
+1178,125002,Choundha,Conc.,National,Morena,Madhya Pradesh,Agra Gwalior Pathways,26.468079,78.010109
+1179,125003,Baretha or Jajau,Conc.,National,Agra,Uttar Pradesh,Agra Gwalior Pathways,26.932005,77.933357
+1180,127001,Malthone,Conc.,National,Sagar,Madhya Pradesh,DPJ DRA Tollways,24.322069,78.526217
+1181,127002,Chitora,Conc.,National,Sagar,Madhya Pradesh,DPJ DRA Tollways,23.725416,78.809126
+1182,127003,Titarpani,Conc.,National,Sagar,Madhya Pradesh,DPJ DRA Tollways,23.217097,79.043014
+1183,130001,Guna,Conc.,National,Guna,Madhya Pradesh,Guna Infra,24.620413,77.26147
+1184,131001,Jamli Toll Pllaza,Conc.,National,Barwani,Madhya Pradesh,Khalghat Sendhwa Tollways,21.75667,75.156824
+1185,132001,IDTL Toll Plaza-A,Conc.,National,Indore,Madhya Pradesh,Indore Dewas Tollways,22.822692,75.938208
+1186,137001,Mathni,Conc.,National,Nagpur,Maharashtra,JMC,21.139545,79.365105
+1187,138001,Sendurwafa Toll Plaza,Conc.,National,Bhandara,Maharashtra,Ashoka Buildcon,21.088244,80.034186
+1188,139001,Shirpur,Conc.,National,Dhule,Maharashtra,DPTL,21.319733,74.889272
+1189,139002,Songir,Conc.,National,Dhule,Maharashtra,DPTL,21.050768,74.784939
+1190,140001,Chandwad Toll Plaza,Conc.,National,Nashik,Maharashtra,Ircon Soma,20.325219,74.210736
+1191,140002,Laling Toll Plaza,Conc.,National,Dhule,Maharashtra,Ircon Soma,20.833039,74.754271
+1192,142001,Ghoti Toll Plaza,Conc.,National,Nashik,Maharashtra,Gammon India,19.708905,73.614819
+1193,142002,Arjunalli Toll Plaza,Conc.,National,Thane,Maharashtra,Gammon India,19.361481,73.165874
+1194,148001,Manguli Toll Plaza,Conc.,National,Cuttack,Odisha,Shree Jagannath Expressway,20.540387,85.96387
+1195,151001,Sambalpur Baragarh Tollways,Conc.,National,Bargarh,Odisha,Ashoka Buildcon,21.353192,83.684183
+1196,154001,Gharonda Toll Plaza,PF,National,Karnal,Haryana,Soma Isolux NH One Tollway,29.582281,76.978398
+1197,154002,Ghagghar Toll Plaza,PF,National,Ambala,Haryana,Soma Isolux NH One Tollway,30.403876,76.736573
+1198,155001,Chandimandir Toll Plaza,Conc.,National,Panchkula,Haryana,JP Infra,30.738834,76.897977
+1199,157001,BSC-C&C Kurali Toll Plaza,Conc.,National,Rupnagar,Punjab,BSC-C&C Kurali Toll Plaza,30.908345,76.545373
+1200,158001,Harsa Mansar Toll Plaza,Conc.,National,Hoshiarpur,Punjab,NHAI,32.061586,75.614373
+1201,159001,Chollang Toll Plaza,Conc.,National,Hoshiarpur,Punjab,NHAI,31.624658,75.640296
+1202,163001,Ludhwai Toll Plaza,Conc.,National,Bharatpur,Rajasthan,Madhucon Infra,27.178509,77.416845
+1203,163002,Amoli Toll Plaza,Conc.,National,Bharatpur,Rajasthan,Madhucon Infra,27.101301,77.090874
+1204,164001,Sikandra Toll Plaza,Conc.,National,Dausa,Rajasthan,JAIPUR MAHUA TOLLWAY,26.944488,76.557567
+1205,164002,Rajadhok Toll Plaza,Conc.,National,Jaipur,Rajasthan,JAIPUR MAHUA TOLLWAY,26.859184,76.105596
+1206,167001,Vaniyambadi Toll Plaza,Conc.,National,Vellore,Tamil Nadu,L&T,12.648554,78.5833
+1207,167002,Pallikonda Toll Plaza,Conc.,National,Vellore,Tamil Nadu,L&T,12.905829,78.951686
+1208,169001,L&T Krishnagiri Thopur Toll P,Conc.,National,Dharmapuri,Tamil Nadu,L&T,12.00638,78.08008
+1209,170001,Velanchettiyur,Conc.,National,Dindigul,Tamil Nadu,Madhucon Infra,10.6990089,77.93067
+1210,176001,Valvanthankottai,Conc.,National,Tiruchirappalli,Tamil Nadu,Madhucon Infra,10.744371,78.834044
+1211,176002,Elliyarpathy,Conc.,National,Virudhunagar,Tamil Nadu,Madhucon Infra,9.78299,78.094492
+1212,176003,Pudurpandiyapuram,Conc.,National,Thoothukudi,Tamil Nadu,Madhucon Infra,8.862935,78.117106
+1213,177001,Pondicherry Tindivanam Toll P,Conc.,National,Villupuram,Tamil Nadu,Pondicherry Tollways,11.983278,79.78836
+1214,180001,Tundla Toll Plaza,Conc.,National,Firozabad,Uttar Pradesh,IRB,27.218247,78.272821
+1215,180002,Gurau (Formerly Semra Atikaba),Conc.,National,Firozabad,Uttar Pradesh,IRB,26.996524,78.777334
+1216,182001,Salemgarh Toll Plaza,Conc.,National,Kushinagar,Uttar Pradesh,M/s Gorakhpur Kasia Tollways,26.631703,84.238336
+1217,183001,Muzaina Hetim Toll Plaza,Conc.,National,Kushinagar,Uttar Pradesh,M/s Gorakhpur Kasia Tollways,26.733855,83.808555
+1218,184001,Tendua Toll Plaza,Conc.,National,Gorakhpur,Uttar Pradesh,M/s Gorakhpur Kasia Tollways,26.724015,83.274398
+1219,185001,Chaukadi Toll Plaza,Conc.,National,Basti,Uttar Pradesh,Ayodhya Gorakhpur SMS Toll,26.781298,82.417008
+1220,186001,Mandawnagar Toll Plaza,Conc.,National,Basti,Uttar Pradesh,Ayodhya Gorakhpur SMS Toll,26.810525,82.731283
+1221,187001,Nawabganj Toll Plaza,Conc.,National,Bareilly,Uttar Pradesh,PNC Kanpur-Ayodhya Tollways,28.45428,79.437658
+1222,187002,Ahmadpur Toll Plaza,Conc.,National,Barabanki,Uttar Pradesh,PNC Kanpur-Ayodhya Tollways,26.858351,81.422451
+1223,187003,Ronahi Toll Plaza,Conc.,National,Faizabad,Uttar Pradesh,PNC Kanpur-Ayodhya Tollways,26.767878,81.949556
+1224,189001,AIT Toll Plaza,Conc.,National,Jalaun,Uttar Pradesh,M/s Welcome Infra,25.87995,79.210312
+1225,190001,SEMRI Toll Plaza,Conc.,National,Jhansi,Uttar Pradesh,Bhargavendra Nath Upadhyaya,25.636776,78.875045
+1226,193001,Brijghat Toll Plaza,Conc.,National,Hapur,Uttar Pradesh,IRB,28.767149,78.110043
+1227,194001,Joya Toll Plaza,Conc.,National,Amroha,Uttar Pradesh,IRB,28.836176,78.420749
+1228,196001,Itaunja Toll Plaza,Conc.,National,Sitapur,Uttar Pradesh,Lucknow Sitapur Expressways,27.1034866,80.8814285
+1229,199001,Kokhraj(Sirohi) Toll Plaza,Conc.,National,Kaushambi,Uttar Pradesh,M/s Eagle Infra India Ltd,25.576505,81.5295417
+1230,199002,Hand (Sujala ) Toll Plaza,Conc.,National,Allahabad,Uttar Pradesh,M/s Eagle Infra India Ltd,25.3788756,82.1567207
+1231,199003,Nawabganj Toll Plaza,Conc.,National,Allahabad,Uttar Pradesh,M/s Eagle Infra India Ltd,25.5650131,81.7457289
+1232,199004,SORAON Toll Plaza,Conc.,National,Allahabad,Uttar Pradesh,M/s Eagle Infra India Ltd,25.5897643,81.8407997
+1233,199005,SAHSON Toll Plaza,Conc.,National,Allahabad,Uttar Pradesh,M/s Eagle Infra India Ltd,25.490249,81.996729
+1234,201001,Madrak Toll Plaza,Conc.,National,Aligarh,Uttar Pradesh,Brijbhoomi Expressway,27.803992,78.087073
+1235,201002,Baros Toll Plaza,Conc.,National,Hathras,Uttar Pradesh,Brijbhoomi Expressway,27.335508,78.031048
+1236,204001,Rajchandrapur Toll Plaza,Conc.,National,Howrah,West Bengal,Second Vivekananda Bridge,22.654299,88.325166
+1237,205001,Jaladhulagori Toll Plaza,Conc.,National,Howrah,West Bengal,Ashoka Buildcon,22.573188,88.181679
+1238,205002,Debra Toll Plaza,Conc.,National,West Medinipur,West Bengal,Ashoka Buildcon,22.397144,87.522855
+1239,208001,Sonapetya,Conc.,National,Purba Medinipur,West Bengal,NHAI,22.335479,87.869477
+1240,209001,Beliyad Toll Plaza,Conc.,National,Dhanbad,Jharkhand,M/s IL&FS,23.763627,86.79803
+1241,210001,Chandermore Plaza,Conc.,National,Murshidabad,West Bengal,Barahmpur-Farakka Tollway,24.563182,88.019993
+1242,210002,Shibpur Plaza,Conc.,National,Murshidabad,West Bengal,Barahmpur-Farakka Tollway,24.150449,88.18629
+1243,212001,Laxmipuram,TOT,National,Srikakulam,Andhra Pradesh,NHAI,18.733529,84.389803
+1244,215001,Aliyapur Toll Plaza,Conc.,National,Kanpur Nagar,Uttar Pradesh,PNC Kanpur Highways Ltd.,26.06978,80.163008
+1245,215002,Khanna Toll Plaza,Conc.,National,Hamirpur,Uttar Pradesh,PNC Kanpur Highways Ltd.,25.543293,80.060095
+1246,216001,Sivaya Toll Plaza,Conc.,National,Meerut,Uttar Pradesh,Western UP Tollway Ltd.,29.095601,77.710995
+1247,217001,Bhatia  Toll Plaza,Conc.,National,Surat,Gujarat,Soma Isolux,21.090354,72.922502
+1248,217002,Mandal Toll Plaza,Conc.,National,Tapi,Gujarat,Soma Isolux,21.134892,73.478457
+1249,220001,Raipur,Conc.,National,Pali,Rajasthan,L&T,26.063612,74.059477
+1250,220002,Indranagar,Conc.,National,Pali,Rajasthan,L&T,25.829753,73.459836
+1251,220003,BIRAMI,Conc.,National,Pali,Rajasthan,L&T,25.371114,73.201486
+1252,220004,UTHMAN,Conc.,National,Sirohi,Rajasthan,L&T,25.033571,72.94353
+1253,230001,IVRCL Chengapally Tollways Li,Conc.,National,Tiruppur,Tamil Nadu,IVRCL,11.012852,77.073167
+1254,234001,Palempalli Toll Plaza,Conc.,National,Kadapa,Andhra Pradesh,Rayalasema Expressway,14.51346,78.791105
+1255,234002,Chagalmarri Toll Plaza,Conc.,National,Kurnool,Andhra Pradesh,Rayalasema Expressway,14.979577,78.574764
+1256,235001,Mandawara Toll Plaza,Conc.,National,Rajsamand,Rajasthan,Shreenathji Udaipur Tollway,25.20385,73.814701
+1257,235002,Negadiya Toll Plaza,Conc.,National,Rajsamand,Rajasthan,Shreenathji Udaipur Tollway,24.7998229,73.7603221
+1258,239100,LUHARLI Toll Plaza,Conc.,National,Gautam Buddh Nagar,Uttar Pradesh,Gaziabad Aligarh Expressway,28.499246,77.627269
+1259,239101,Gabhana Toll Plaza,Conc.,National,Aligarh,Uttar Pradesh,Gaziabad Aligarh Expressway,28.062821,77.946047
+1260,239300,Unguturu Toll Plaza,TOT,National,West Godavari,Andhra Pradesh,NHAI,16.823733,81.430668
+1261,239301,Eethakota at Km.946.300,TOT,National,East Godavari,Andhra Pradesh,NHAI,16.715212,81.82786
+1262,239400,Rohad Toll Plaza,Conc.,National,Rohtak,Haryana,West Haryana Highways Project,28.754563,76.795216
+1263,239700,PamPamPallam Toll Plaza,Conc.,National,Palakkad,Kerala,KNR Walayar Tollways Pvt Ltd,10.8131538,76.7957998
+1264,239900,Raje Toll Plaza (T-2),Conc.,National,Darbhanga,Bihar,SMS,26.225144,86.150263
+1265,241700,Chhuhipali Toll Plaza,Conc.,National,Mahasamund,Chhattisgarh,BSCPL Aurang Tollway Limited,21.299821,82.942781
+1266,241701,Dhank Toll Plaza,Conc.,National,Mahasamund,Chhattisgarh,BSCPL Aurang Tollway Limited,21.227203,82.42025
+1267,241900,Mandir Hasaud Toll Plaza,Conc.,National,Raipur,Chhattisgarh,Raipur Expressways Limited,21.20296,81.905328
+1268,242000,Madina Toll Plaza,Conc.,National,Rohtak,Haryana,Rohtak Hissar Tollway,28.9374978,76.3981516
+1269,242001,Mayar Toll Plaza,Conc.,National,Hisar,Haryana,Rohtak Hissar Tollway,29.100827,75.885338
+1270,243000,Rupakheda Toll Plaza,Conc.,National,Chittaurgarh,Rajasthan,Bhilwara Rajsamand Tollway,25.1100285,73.9887022
+1271,243001,Mujras Toll Plaza,Conc.,National,Ahmedabad,Gujarat,Bhilwara Rajsamand Tollway,25.2747754,74.4927949
+1272,244000,18th Mile Toll Plaza,Conc.,National,Farakka,West Bengal,Farakka Raiganj Highways Ltd.,24.82246724,87.96696231
+1273,244001,Gazole Toll Plaza,Conc.,National,Malda,West Bengal,Farakka Raiganj Highways Ltd.,25.1958866,88.18264181
+1274,245001,SONWAY Toll Plaza,Conc.,National,Indore,Madhya Pradesh,Oriental Pathways(Indore),22.6118196,75.7764414
+1275,380001,DidarGanj,Conc.,National,Patna,Bihar,BPAPA,25.5721918,85.2400643
+1276,284001,Mahant Maniyari,Conc.,National,Muzaffarpur,Bihar,KNR Muzaffarpur Baraunitollway,26.0387944,85.4475413
+1277,257001,Sasthan Toll Plaza,Conc.,National,Sasthan,Karnataka,Navayuga,13.476043,74.7127896
+1278,312001,Narwana,Conc.,National,Dharamgarh,Haryana,IRB,29.5781487,76.0887316
+1279,312002,Badopatti,Conc.,National,Bado patti,Haryana,IRB,29.298647,75.8199341
+1280,312003,Chaudhariwas,Conc.,National,Chaudhariwas,Haryana,IRB,28.9974934,75.6043331
+1281,326002,Deoriya,Conc.,National,?Rudrapur?,Uttarakhand,Kashipur Sitarganj Highways,28.930637,79.475637
+1282,257002,Hejamadi Toll Plaza,Conc.,National,Hejamadi,Karnataka,NAVAYUGA UDUPI TOLLWAY PVT LTD,13.1075003,74.78445458
+1283,257003,TALAPADY Toll Plaza,Conc.,National,Talapady,Karnataka,NAVAYUGA UDUPI TOLLWAY PVT LTD,12.7590772,74.8743029
+1284,341401,Hiwargaon pavasa Toll Plaza,Conc.,National,Ahmadnagar,Maharashtra,Khed -Sinnar Expressway,19.514777,74.2013655
+1285,280001,Murlitol,Conc.,National,Barauni,Bihar,KNR Tollways Pvt. Ltd.,25.5899165,85.875775
+1286,341101,Chalakwadi  Toll Plaza,Conc.,National,Pune,Maharashtra,Khed -Sinnar Expressway,19.1700886,74.0751759
+1287,356100,Mangalgi,Conc.,National,Bidar,Karnataka,M/s Deccan Tollways Ltd,17.7454925,77.3171313
+1288,350100,Kamkole,Conc.,National,Bidar,Telangana,M/s Deccan Tollways Ltd,17.6457252,77.8198176
+1289,370001,Banskopa Plaza,Conc.,National,Durgapur,West Bengal,M/s IL&FS,23.4916993,87.3768623
+1290,330008,Khedi,Conc.,National,Gulabpura,Rajasthan,IRB,26.1029659,74.6849376
+1291,330007,Lambiya Kalan,Conc.,National,Jaipur,Rajasthan,IRB,25.5871683,74.593839
+1292,330002,Lasedi,Conc.,National,Churu,Rajasthan,M/s Salasar Highways Pvt. Ltd.,28.7015412,75.4758781
+1293,330003,Dhadhar,Conc.,National,Churu,Rajasthan,M/s Salasar Highways Pvt. Ltd.,28.3458569,75.0682504
+1294,330004,Sobhasar,Conc.,National,Churu,Rajasthan,M/s Salasar Highways Pvt. Ltd.,27.785854,74.747014
+1295,340001,Nashik Sinner Tollways Limited,BOT,MoRTH,Nashik,Maharashtra,NHAI,19.9119216,73.9006299
+1296,340002,Tamalwadi Toll Plaza,Conc.,National,Sholapur,Maharashtra,IRB,17.8519632,75.9653571
+1297,340003,Yedashi Toll Plaza,Conc.,National,Osmanabad,Maharashtra,IRB,18.3074605,75.9890916
+1298,345005,Purankhedi Toll Plaza,Conc.,National,Kolaras,Madhya Pradesh,Ircon,25.1649077,77.6035472
+1299,352001,Nannur,Conc.,National,Kurnool,Andhra Pradesh,Rayalasema Expressway,15.7406107,78.0705331
+1300,345003,Pagara Toll Plaza,Conc.,National,Guna,Madhya Pradesh,Dilip Buildcon Limited,24.5069819,77.1860753
+1301,345004,Jogipur Toll Plaza,Conc.,National,Biaora,Madhya Pradesh,Dilip Buildcon Limited,24.0875232,76.9848838
+1302,154003,Ladowal Toll Plaza,PF,National,Ludhiana,Punjab,Soma Isolux NH One Tollway,30.988606,75.790611
+1303,550002,Edulanagulapally,PF,State,Hyderabad,Telangana,IRB,17.4622136,78.2494394
+1304,550008,Keesara,PF,State,Hyderabad,Telangana,IRB,17.310012,78.385202
+1305,550011,Pedda Amberpet,PF,State,Hyderabad,Telangana,IRB,17.319992,78.655881
+1306,330025,Rajora Khurd,PF,National,Bharatpur,Rajasthan,NHAI,26.8539706,77.7228186
+1307,345008,Rathara,BOT,MoRTH,Rewa,Madhya Pradesh,M/s Path India Pvt.Ltd,24.539445,81.3514053
+1308,345009,Choratha,BOT,MoRTH,Rewa,Madhya Pradesh,M/s Path India Pvt.Ltd,24.5483246,81.3467263
+1309,330016,Khara Toll Plaza,BOT,MoRTH,Bikaner,Rajasthan,MoRTH,28.2330309,73.3902644
+1310,330017,Bhadera Toll Plaza,BOT,MoRTH,Bikaner,Rajasthan,MoRTH,28.594353,73.810058
+1311,330018,Hindore Toll Plaza,BOT,MoRTH,Bikaner,Rajasthan,MoRTH,29.101064,73.85389
+1312,330019,Salasar Toll Plaza,Conc.,National,Bikaner,Rajasthan,Ircon PBTL,28.003871,73.11499
+1313,330020,Nokhra Toll Plaza,Conc.,National,Bikaner,Rajasthan,Ircon PBTL,27.668079,72.674974
+1314,330021,Kheerwa Toll Plaza,Conc.,National,Bikaner,Rajasthan,Ircon PBTL,27.283378,72.323165
+1315,320013,ALEP Main Plaza 21,PF,State,Fatehabad,Uttar Pradesh,Eagle Infra India Ltd,27.053626,78.277169
+1316,320014,ALEP Ramp Plaza 27,PF,State,Fatehabad,Uttar Pradesh,Eagle Infra India Ltd,27.038767,78.335211
+1317,320015,ALEP Ramp Plaza 54,PF,State,Shikohabad,Uttar Pradesh,Eagle Infra India Ltd,26.998814,78.58165
+1318,320017,ALEP Ramp Plaza 92,PF,State,Saifai,Uttar Pradesh,Eagle Infra India Ltd,27.015798,78.946526
+1319,320018,ALEP Ramp Plaza 108,PF,State,Etawah,Uttar Pradesh,Eagle Infra India Ltd,26.949591,79.076293
+1320,320019,ALEP Ramp Plaza 116,PF,State,Etawah,Uttar Pradesh,Eagle Infra India Ltd,26.913797,79.158391
+1321,320020,ALEP Ramp Plaza 154,PF,State,Saurikh,Uttar Pradesh,Eagle Infra India Ltd,26.913619,79.160199
+1322,320021,ALEP Ramp Plaza 171,PF,State,Taki Gram,Uttar Pradesh,Eagle Infra India Ltd,27.070904,79.653549
+1323,320023,ALEP Ramp Plaza220,PF,State,Kanpur,Uttar Pradesh,Eagle Infra India Ltd,26.912105,80.027101
+1324,320024,ALEP Ramp Plaza 238,PF,State,Unnao,Uttar Pradesh,Eagle Infra India Ltd,26.926112,80.200743
+1325,320025,ALEP Main Plaza 290,PF,State,Lucknow,Uttar Pradesh,Eagle Infra India Ltd,26.845635,80.710711
+1326,340004,Pargaon TP,Conc.,National,Aurangabad,Maharashtra,YABOT (IRB),18.6284625,75.6978936
+1327,340005,Padalshingi TP,Conc.,National,Aurangabad,Maharashtra,YABOT (IRB),19.1388116,75.7488874
+1328,340006,Maliwadi TP,Conc.,National,Aurangabad,Maharashtra,YABOT (IRB),19.600875,75.614882
+1329,345012,Katni Bypass Road Ltd-Entry,BOT,MoRTH,Katni,Madhya Pradesh,Ashoka Concessions,23.888946,80.384704
+1330,345013,Katni Bypass Road Ltd-Exit,BOT,MoRTH,Katni,Madhya Pradesh,Ashoka Concessions,23.768876,80.334978
+1331,345010,Chapra,Conc.,National,Indore,Madhya Pradesh,Oriental,23.6570433,76.6148339
+1332,345011,Rojwas,Conc.,National,Indore,Madhya Pradesh,Oriental,23.3306354,76.1757945
+1333,352013,Chapirevula,Conc.,National,Nandyal,Andhra pradesh,NHAI,15.460198,78.451697
+1334,540003,Khalapur Toll Plaza,Conc.,State,Khalapur,Maharashtra,IRB,18.801047,73.285379
+1335,540004,Kusgaon Toll Plaza,Conc.,State,Kusgaon,Maharashtra,IRB,18.760371,73.430045
+1336,540005,Talegaon Toll Plaza,Conc.,State,Talegaon,Maharashtra,IRB,18.713938,73.645848
+1337,314014,Chak Bamniya Toll Plaza,PF,National,Jalandhar,Punjab,NHAI,31.0241526,75.3044463
+1338,345006,Methwada,Conc.,National,Indore,Madhya Pradesh,IIGTL,22.6731595,75.545744
+1339,345007,Dattigaon,Conc.,National,Jhabua,Madhya Pradesh,IIGTL,22.741519,74.836537
+1340,340008,Kardha Toll Plaza,Conc.,MoRTH,Bhandara,Maharashtra,Abhijeet Ashoka Infrastructure,21.1393821,79.6750986
+1341,345035,Masuriha,Conc.,MoRTH,Rewa,Madhya Pradesh,Vindhyachal Expressway,24.7601633,82.0648097
+1342,330053,Nimbali,Conc.,MoRTH,Nimbali,Rajasthan,Jodhpur Pali Expressway,26.018464,73.088679
+1343,330054,Gajangarh,Conc.,MoRTH,Gajangarh,Rajasthan,Jodhpur Pali Expressway,25.824112,73.233418
+1344,520001,ALEP Ramp Plaza 269,PF,State,Sandila,Uttar Pradesh,Eagle Infra India Ltd,26.9047203,80.48483
+1345,520002,ALEP Ramp Plaza 284,PF,State,Lucknow,Uttar Pradesh,Eagle Infra India Ltd,26.8506024,80.6686972
+1346,520004,ALEP Ramp Plaza 101,PF,State,Saifai,Uttar Pradesh,Eagle Infra India Ltd,27.0033012,78.9769078
+1347,540006,Shilphata NH48 Toll Plaza,Conc.,State,Kalyan,Maharashtra,IRB,19.09779,73.071728
+1348,540007,Shedung NH48 Toll Plaza,Conc.,State,Panvel,Maharashtra,IRB,18.947388,73.178849
+1349,540008,Kusgaon NH48 Toll Plaza,Conc.,State,Lonavala,Maharashtra,IRB,18.760253,73.439713
+1350,540009,Dehuroad NH48 Toll Plaza,Conc.,State,Pune,Maharashtra,IRB,18.700286,73.692154
+1351,536002,HSTL TP01- Khadki,Conc.,state,Khadki,Gujarat,L&T HSTL,22.6479969,73.5197764
+1352,536004,HSTL TP03- Galiya Danti,Conc.,state,Galiya Danti,Gujarat,L&T HSTL,23.3639618,73.5152351
+1353,536005,HSTL TP04- Gajan,Conc.,state,Gajan,Gujarat,L&T HSTL,23.5051103,73.3033763
+1354,536003,HSTLTP02-Gaman Bariyanamuvada,Conc.,state,Gaman Bariya na muvada,Gujarat,L&T HSTL,23.0127692,73.6180402
+1355,340015,Moshi Toll Plaza,Conc.,MoRTH,Pune,Maharashtra,IRB,18.6867178,73.8465816
+1356,340016,Rajgurunagar Toll Plaza,Conc.,MoRTH,Pune,Maharashtra,IRB,18.8377812,73.8800121
+1357,345033,Heeran Khedi,Conc.,MoRTH,Rajgarh,Madhya Pradesh,Agroh Biaora Tollways,23.98798,76.801104
+1358,345036,Baretha KM 21.120,Conc.,MoRTH,Gwalior,Madhya Pradesh,MP Highways Pvt. Ltd,26.320813,78.272572
+1359,345037,Phoop (Barahi) KM 105.300,Conc.,MoRTH,Bhind,Madhya Pradesh,MP Highways Pvt. Ltd,26.683184,78.917895
+1360,360024,Neelambur,Conc.,MoRTH,Coimbatore,Tamil Nadu,L&T,11.060944,77.088928
+1361,360026,Trichy Cochin,Conc.,MoRTH,Coimbatore,Tamil Nadu,L&T,11.005088,77.069038
+1362,360027,Madukkarai,Conc.,MoRTH,Coimbatore,Tamil Nadu,L&T,10.895638,76.945815
+1363,360020,Pollachi Cochin Toll Plaza,Conc.,MoRTH,Coimbatore,Tamil Nadu,L&T,10.914016,76.982178
+1364,360021,Pollachi Salem Toll Plaza,Conc.,MoRTH,Coimbatore,Tamil Nadu,L&T,10.921531,76.989327
+1365,330055,Ochadi,BOT,MoRTH,Chittorgarh,Rajasthan,Chetak Tollways Ltd,24.8248863,74.6282613
+1366,320028,Andiyari,Conc.,National,Prayagraj,Uttar Pradesh,Raebareilly Allahabad Highway,25.612351,81.642036
+1367,330056,Nimbaheda,BOT,MoRTH,Chittorgarh,Rajasthan,Chetak Tollways Ltd,24.6104397,74.6484461
+1368,330059,Rashidpura,Conc.,MoRTH,Sikar,Rajasthan,Sikar Bikaner Highway Limited,27.726086,75.075979
+1369,330060,Tidiayasar,Conc.,MoRTH,Â Churu,Rajasthan,Sikar Bikaner Highway Limited,28.057867,74.747246
+1370,330061,Lakhasar,Conc.,MoRTH,Bikaner,Rajasthan,Sikar Bikaner Highway Limited,28.093586,73.876543
+1371,330062,Udairamsar,Conc.,MoRTH,Â Bikaner,Rajasthan,Sikar Bikaner Highway Limited,28.023441,73.413482
+1372,330057,Narsingharh,BOT,MoRTH,Chittorgarh,Rajasthan,Chetak Tollways Ltd,24.5521458,74.6665621
+1373,330058,Sidhpura,BOT,MoRTH,Pratapgarh,Rajasthan,Chetak Tollways Ltd,24.0937133,74.7523369
+1374,540001,Rajiv Gandhi Sea Link,Conc.,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd,19.0431887,72.8248015
+1375,556001,Kadathanamale Toll Plaza,Conc.,State,BangaloreÂ,Karnataka,YELAHANKA AP BORDER TOLLWAYS,13.2123515,77.5535138
+1376,556002,Gunjur Toll Plaza,Conc.,State,BangaloreÂ,Karnataka,YELAHANKA AP BORDER TOLLWAYS,13.4293608,77.5124912
+1377,340009,Phulwadi Toll Plaza,Conc.,National,Naldurg,Maharashtra,Solapur Tollways Pvt ltd.,17.7991202,76.1933353
+1378,340010,Talmod Toll Plaza,Conc.,National,Omerga,Maharashtra,Solapur Tollways Pvt ltd.,17.8261927,76.7398762
+1379,356006,Belekeri,Conc.,National,Hattikeri,Karnataka,IRB Westcoast Tollway,14.7104272,74.2935113
+1380,356007,Holgegadde,Conc.,National,Dhareshwar,Karnataka,IRB Westcoast Tollway,14.3594475,74.4184843
+1381,356008,Shirur,Conc.,National,Shiroor,Karnataka,IRB Westcoast Tollway,13.9333649,74.5965095
+1382,356103,Thimmalapura,Conc.,National,Bellary,Karnataka,Hampi Expressways PVT. LTD.,15.05737,76.3569
+1383,356104,Kananakatte,Conc.,National,Davangere,Karnataka,Hampi Expressways PVT. LTD.,14.5381,76.4269
+1384,356009,Gabbur,Conc.,MoRTH,Hubli,Karnataka,Nandi Highway Developers,15.3186929,75.1398824
+1385,356010,Karwar,Conc.,MoRTH,Hubli,Karnataka,Nandi Highway Developers,15.4461808,75.0125785
+1386,356011,Tarihal,Conc.,MoRTH,Hubli,Karnataka,Nandi Highway Developers,15.359531,75.051265
+1387,356012,Kalghatgi,Conc.,MoRTH,Dharwad,Karnataka,Nandi Highway Developers,15.396148,75.004123
+1388,356013,Goa,Conc.,MoRTH,Dharwad,Karnataka,Nandi Highway Developers,15.460555,74.967151
+1389,356014,Narendra,Conc.,MoRTH,Dharwad,Karnataka,Nandi Highway Developers,15.488805,74.970109
+1390,370013,Sali Bamandanga,PF,National,Nadia,West Bengal,NHAI,23.629129,88.359582
+1391,378004,Mikirati Hawgaon Toll Plaza,PF,National,Daboka,Assam,NHAI,26.131342,92.836207
+1392,330073,Kota Bypass Toll Plaza,PF,National,Kota,Rajasthan,NHAI,25.132814,75.796857
+1393,370014,Paschim Madati,PF,National,Darjeeling,West Bengal,NHAI,24.599579,84.70284
+1394,380012,Saukala Toll Plaza,PF,National,Aurangabad,Bihar,NHAI,24.599579,84.70284
+1395,312022,Bhagan Toll Plaza,PF,National,Sonipat,Haryana,NHAI,29.071744,77.0601904
+1396,352021,Chilakpelam,PF,National,Srikakulam,Andhra Pradesh,NHAI,18.273462,83.807965
+1397,352022,Nathavalasa,PF,National,Vizianagaram,Andhra Pradesh,NHAI,18.057967,83.521081
+1398,356016,Bankapur,PF,National,Haveri,Karnataka,NHAI,14.90999,75.2798
+1399,312019,Main Plaza Village Jakhauli,PF,National,Jakhauli,Haryana,NHAI,28.917251,77.161054
+1400,312020,Maujpur,PF,National,Maujpur,Haryana,NHAI,28.284826,77.43934
+1401,312021,Chhajju Nagar,PF,National,Chhajju Nagar,Haryana,NHAI,28.0989714,77.3639658
+1402,320054,Mavikala,PF,National,Mavikala,Uttar Pradesh,NHAI,28.87763,77.247776
+1403,320055,Duhai,PF,National,Duahi,Uttar Pradesh,NHAI,28.737468,77.477137
+1404,320056,Dasana,PF,National,Dasana,Uttar Pradesh,NHAI,28.687737,77.535805
+1405,320057,Bilakbarpur,PF,National,Bilakbarpur,Uttar Pradesh,NHAI,28.520428,77.600397
+1406,320058,Fatehpur Rampur,PF,National,Fatepur Rampur,Uttar Pradesh,NHAI,28.437802,77.588752
+1407,314015,Badbar,PF,National,Sangrur,Punjab,NHAI,30.2476529,75.6396108
+1408,330070,Tamdoli,PF,National,Ajmer,Rajasthan,NHAI,26.8700372,74.2927598
+1409,330075,Nimbi Jodha,PF,National,Ladnun (Nagaur),Rajasthan,NHAI,27.5147239,74.3207931
+1410,330076,Harimma,PF,National,Nagaur,Rajasthan,NHAI,27.2553568,73.8398793
+1411,312017,Bhavdeen Plaza,PF,National,Sirsa,Haryana,NHAI,29.5326385,75.2009966
+1412,312018,Khuian Malkna,PF,National,Sirsa,Haryana,NHAI,29.8807,74.793858
+1413,314017,Kalajhar Toll Plaza,PF,National,Channo,Punjab,NHAI,30.2660156,76.1468553
+1414,314019,Zidda Toll Plaza,PF,National,Bhatinda,Punjab,NHAI,30.3848746,74.9829043
+1415,314022,Kot Karora Kalan Plaza,PF,National,Talwandi,Punjab,NHAI,30.8263476,74.9165723
+1416,330074,Nimbasar,PF,National,Barmer,Rajasthan,NHAI,26.1512284,71.2802787
+1417,360029,Pattarai Toll Plaza,PF,National,Tiruvallur,Tamil Nadu,NHAI,13.150829,79.834687
+1418,320053,Aaini Toll Plaza,PF,National,Bahraich,Uttar Pradesh,NHAI,27.2970385,81.54163697
+1419,314016,Lehra Begga Toll Plaza,PF,National,Bhatinda,Punjab,NHAI,30.2331306,75.1018423
+1420,314020,Dhareri Jattan Toll Plaza,PF,National,Zirakpur,Punjab,NHAI,30.3912006,76.4995253
+1421,314021,Dharer Azizpur Toll Plaza,PF,National,Patiala,Punjab,NHAI,30.5938815,76.7600168
+1422,314023,Paind Toll Plaza,PF,National,Partran,Punjab,NHAI,29.8880996,76.1014463
+1423,352023,S.V Puram Toll Plaza,PF,National,Chittoor,Andhra Pradesh,Transtroy,13.525577,79.532925
+1424,360028,SURAPATTU Toll Plaza,PF,National,Tiruvallur,Tamil Nadu,NHAI,13.136678,80.181624
+1425,350005,Kadthal Toll Plaza,PF,National,Kadthal,Telangana,NHAI,16.970404,78.50755
+1426,375011,Gurapali Toll Plaza,PF,National,Ganjam,Odisha,NHAI,19.638154,85.140017
+1427,314018,Usma Toll Plaza,PF,National,Amritsar,Punjab,NHAI,31.37004,74.9525751
+1428,356020,Hebbalu Toll Plaza,PF,National,Davanagere,Karnataka,NHAI,14.375564,76.106875
+1429,345045,Jaitpur Toll Plaza,PF,National,Seoni,Madhya Pradesh,NHAI,22.548497,79.600413
+1430,345046,Fulara Toll Plaza,PF,National,Seoni,Madhya Pradesh,NHAI,22.043539,79.418753
+1431,330084,Nimbayani Toll Plaza,PF,National,Barmer,Rajasthan,NHAI,25.865575,71.6305593
+1432,330085,Hathitala Toll Plaza,PF,National,Barmer,Rajasthan,NHAI (QualiX),25.5646786,71.4078461
+1433,360030,Athur Toll Plaza,PF,National,Kanchipuram,Tamil Nadu,NHAI,12.346862,79.779856
+1434,356019,Chalageri Toll Plaza,PF,National,Haveri,Karnataka,NHAI,14.556782,75.728072
+1435,312023,Landhari Toll Plaza,PF,National,Hisar,Haryana,NHAI,29.2922726,75.6481065
+1436,330086,Bor Charnan Toll Plaza,PF,National,Barmer,Rajasthan,NHAI (QualiX),25.1018238,71.5596583
+1437,340021,Patanswangi Toll Plaza,PF,National,Nagpur,Maharashtra,NHAI,21.343756,79.009054
+1438,375012,SERGARH Toll Plaza,PF,National,Balasore,Odisha,NHAI,21.429889,86.836645
+1439,330087,Kair Fakir Ki Dhani Toll Plaza,PF,National,Jaisalmer,Rajasthan,QualiX,26.6307103,71.2056009
+1440,380015,Maranga Toll Plaza,PF,National,Purnia,Bihar,NHAI,25.728651,87.458279
+1441,356021,Hattargi Toll Plaza,PF,National,Belagavi,Karnataka,NHAI,16.1433,74.51696
+1442,560001,Perungudi Toll Plaza,PF,State,Chennai,Tamil Nadu,TNRDC,12.9564,80.2412
+1443,560005,ECR link Road  Toll Plaza,PF,State,Chennai,Tamil Nadu,TNRDC,12.9013,80.2183
+1444,356018,Kognoli Toll Plaza,PF,National,Belagavi,Karnataka,NHAI,16.5422,74.31825
+1445,378005,Nazirakhat Toll Plaza,PF,National,Sonapur,Assam,NHAI,26.121161,91.938698
+1446,320062,Lalanagar Toll Plaza,PF,National,Sant Ravidas Nagar,Uttar Pradesh,M/s Bholanath Rajpati Shukla,25.266948,82.491513
+1447,336006,Mandva Toll Plaza,PF,National,Ankleshwar,Gujarat,NHAI,21.7016001,73.0609234
+1448,352034,Mekalavaripalli Toll Plaza,PF,National,Markapuram,Andhra Pradesh,NHAI,15.6675,79.3518
+1449,350008,Gamjal Toll Plaza,PF,National,Adilabad,Telangana,NHAI,19.026592,78.362705
+1450,352027,Kalaparru Toll Plaza,PF,National,West Godavari,Andhra Pradesh,NHAI,16.676408,81.022129
+1451,360032,Nallur Toll Plaza,PF,National,Tiruvallur,Tamil Nadu,L&T,13.216958,80.169353
+1452,314024,Chiddan Toll Plaza,PF,National,Amritsar,Punjab,NHAI,31.617167,74.692378
+1453,360034,Vanagaram Toll Plaza,PF,National,Tiruvallur,Tamil Nadu,NHAI,13.043526,80.149598
+1454,352030,Madapam Toll Plaza,PF,National,Srikakulam,Andhra Pradesh,NHAI,18.377344,84.000528
+1455,352033,Chinthalapalem Toll Plaza,PF,National,Chinthalapalem,Andhra Pradesh,NHAI,13.7881724,79.5894634
+1456,320059,Chhajarsi Toll Plaza,PF,National,Pilkhua,Uttar Pradesh,NHAI,28.7017268,77.6197457
+1457,352031,Badava Toll Plaza,PF,National,Mylavaram,Andhra Pradesh,NHAI,16.8503326,80.6335241
+1458,352036,Rapur Toll Plaza,PF,National,Rapur,Andhra Pradesh,NHAI,14.2104914,79.5602205
+1459,360036,VAGAIKULAM  Toll Plaza,PF,National,Thoothukudi,Tamil Nadu,NHAI,8.7362399,78.0238105
+1460,350007,Rolmamda Toll Plaza,PF,National,Adilabad,Telangana,NHAI,19.28019,78.409222
+1461,352035,Raviguntapalli Toll Plaza,PF,National,Markapuram,Andhra Pradesh,NHAI,15.2253,79.4592
+1462,320060,Badauri Toll Plaza,PF,National,Fatehpur,Uttar Pradesh,M/s Bholanath Rajpati Shukla,26.065386,80.657641
+1463,350006,Pullur Toll Plaza,PF,National,Mahabubnagar,Telangana,NHAI,15.887742,78.016978
+1464,352032,Bhramanapalli Toll Plaza,PF,National,Bhramanapalli,Andhra Pradesh,NHAI,14.7359233,79.0492478
+1465,392008,Rasoiya Dhamna Toll Plaza,PF,National,Hazaribagh,Jharkhand,NHAI,24.3234,85.3881
+1466,314025,BHAGOMAJRA Toll Plaza,PF,National,SAS NAGAR,Punjab,NHAI,30.760763,76.607911
+1467,556004,NILAVAGILU Toll Plaza,Conc.,State,RAMANATHAPURA,Karnataka,MITRA INFRA SOLUTIONS,12.6657789,76.0879545
+1468,556005,Coorgal Toll Plaza,Conc.,State,BETTADAPURA,Karnataka,MITRA INFRA SOLUTIONS,12.4421692,76.1016017
+1469,318004,Bann Toll Plaza,PF,National,Udhampur,J&K,Rakesh Kumar Choudhary,32.838928,74.940536
+1470,379005,Lomshinong Toll Plaza,PF,National,Khliehriat,Meghalaya,NHAI,25.169119,92.393079
+1471,330072,Chilla Chond Toll Plaza,PF,National,Badi,Rajasthan,NHAI,26.6132644,77.5154327
+1472,330071,Kondar Toll Plaza,PF,National,Karauli,Rajasthan,NHAI,26.5372312,77.086002
+1473,345043,Khambara Toll Plaza,PF,National,Betul,Madhya Pradesh,Oriental,21.6937297,78.3900797
+1474,350004,Chinthapally Toll Plaza,PF,National,Chinthapally,Telangana,NHAI,17.471528,79.980556
+1475,360033,Chennasamaduram Toll Plaza,PF,National,Vellore,Tamil Nadu,NHAI,12.910943,79.40121
+1476,320063,Katoghan Toll Plaza,PF,National,Fatehpur,Uttar Pradesh,M/s Bholanath Rajpati Shukla,25.749487,81.170481
+1477,378006,Madanpur Toll Plaza,PF,National,Madanpur,Assam,NHAI,26.309387,91.716408
+1478,312024,MilkMajra Toll Plaza,PF,National,Shahjadpur,Haryana,NHAI,30.2117,77.19388
+1479,330081,Nekawala Toll Plaza,PF,National,Jaipur,Rajasthan,NHAI,27.242389,76.0639
+1480,320064,Jindpur Toll Plaza,PF,National,Raebareli,Uttar Pradesh,NHAI,25.859513,80.684572
+1481,320065,Aihar Toll Plaza,PF,National,Raebareli,Uttar Pradesh,NHAI,26.198251,81.032982
+1482,314027,Behram,PF,National,Behram,Punjab,NHAI,31.204433,75.876799
+1483,314028,Bachhwan,PF,National,Balachaur,Punjab,NHAI,31.0114039,76.389817
+1484,312025,Kitlana,PF,National,Bhiwani,Haryana,Unique BuildMart PvtÂ  Ltd.,28.69299,76.158534
+1485,330079,Similiya Toll Plaza,PF,National,Kota,Rajasthan,M/S Kota Baran Toll Ways,25.170089,76.130552
+1486,330080,Fatehpur Toll Plaza,PF,National,Baran,Rajasthan,M/S Kota Baran Toll Ways,25.1214357,76.5731007
+1487,330078,Doli Toll Plaza,PF,National,Jodhpur,Rajasthan,M/s Eagle Infra India Ltd,26.0626359,72.6730444
+1488,380014,Saidpur Patedha Toll Plaza,PF,National,Saidpur Patedha (Sarai),Bihar,NHAI,25.8024478,85.2834059
+1489,352024,Marur Toll Plaza,PF,National,Anantapuram,Andhra Pradesh,MEP Infra Projects,14.5020891,77.6312667
+1490,352025,Kasepalli Toll Plaza,PF,National,Anantapuram,Andhra Pradesh,MEP Infra Projects,15.061754,77.630328
+1491,352026,Amakthadu Toll Plaza,PF,National,Kurnool,Andhra Pradesh,MEP Infra Projects,15.486433,77.901078
+1492,392010,Tand Balidih Toll Plaza,PF,National,Bokaro,Jharkhand,NHAI,23.6679825,86.0449121
+1493,330090,Leelamba Toll Plaza,PF,National,Lilamba,Rajasthan,NHAI,26.070653,74.010311
+1494,330091,Para Toll Plaza,PF,National,Para,Rajasthan,NHAI,25.798882,74.351686
+1495,360040,Etturvattam Toll Plaza,PF,National,Virudhunagar,Tamil Nadu,Raima Toll Road(MEP),9.385445,77.914347
+1496,345050,Sonvarsha Toll Plaza,PF,National,Sidhi,Madhya Pradesh,NHAI,24.3958,81.8024
+1497,345048,Khadda Toll Plaza,PF,National,Rewa,Madhya Pradesh,NHAI,24.522264,81.365223
+1498,375015,Pipili Toll Plaza,PF,National,Pipili,Odisha,NHAI,20.1374,85.8392
+1499,345047,Mungwari Toll Plaza,PF,National,Hoshangabad,Madhya Pradesh,NHAI,24.644126,79.336084
+1500,345049,Allonia Toll Plaza,PF,National,Seoni,Madhya Pradesh,NHAI,22.269666,79.545141
+1501,352037,Basapuram Toll Plaza,PF,National,Mydukur,Andhra pradesh,NHAI,14.7082937,78.8723146
+1502,360045,Boothakudi Toll Plaza,PF,National,Pudukkottai,Tamil Nadu,M/s Eagle Infra India Ltd,10.64127,78.581277
+1503,356023,Brahamarakotlu Toll Plaza,PF,National,Dakshina Kannada,Karnataka,NHAI,12.8751,75.0039
+1504,360041,D C Palli Toll Plaza,PF,National,Dharmavaram,Tamil Nadu,NHAI,14.6853947,79.5155303
+1505,360044,Buchireddypalem Toll Plaza,PF,National,Nellore,Tamil Nadu,NHAI,14.543497,79.862213
+1506,360043,Chittampatti Toll Plaza,PF,National,Madurai,Tamil Nadu,M/s Eagle Infra India Ltd,9.989594,78.244086
+1507,378007,Dahalapara Toll Plaza,PF,National,Bongoigaon,Assam,NHAI,26.476602,90.712074
+1508,320066,Gulalpurva Toll Plaza,PF,National,Gulalpurva,Uttar Pradesh,NHAI,27.8271,81.5265
+1509,352038,Durgamvaripalli Toll Plaza,PF,National,Rayachoti,Andhra Pradesh,NHAI,13.7142018,78.873175
+1510,392012,Sosokhurd Toll Plaza,PF,National,Dhanbad,Jharkhand,NHAI,23.548958,85.756721
+1511,326005,Banushi Toll Plaza,PF,National,Dehradun,Uttarakhand,NHAI,28.932477,79.929189
+1512,330088,Jasnathnagar Toll Plaza,PF,National,Jodhpur,Rajasthan,NHAI,26.6175741,72.9777825
+1513,330089,Khanori Toll Plaza,PF,National,Jodhpur,Rajasthan,NHAI,26.578813,72.326372
+1514,330094,Morani Toll Plaza,PF,National,Jodhpur,Rajasthan,NHAI,26.891524,71.952354
+1515,379007,Deingpasoh Toll Plaza,PF,National,Ri-Bhoi,Meghalaya,Nandini Talukdar,25.649086,92.047615
+1516,314026,Ghulal Toll Plaza,PF,National,LUDHIANA,Punjab,NHAI,30.845116,76.142999
+1517,352028,Agnampadi Toll Plaza,PF,National,Vishakhapatnam,Andhra Pradesh,NHAI,17.685435,83.149931
+1518,360039,Nanguneri Toll Plaza,PF,National,Tirunelveli,Tamil Nadu,Raima Toll Road(MEP),8.527035,77.663289
+1519,356022,Surathkal Toll Plaza,PF,National,Dakshina Kannada,Karnataka,NHAI,13.013341,74.792875
+1520,360042,Mathur Toll Plaza,PF,National,Madharam,Tamil Nadu,NHAI,13.1762697,80.2447934
+1521,375014,Panikoili Toll Plaza,PF,National,Jajpur,Odisha,NHAI,20.897746,86.21625
+1522,392013,Ghanghri Toll Plaza,PF,National,Giridih,Jharkhand,NHAI,24.030088,85.948654
+1523,330093,Khachrol,PF,National,Bhilwara,Rajasthan,NHAI,25.22635,75.0488993
+1524,360037,Kappalur,PF,National,Madurai,Tamil Nadu,Raima Toll Road(MEP),9.844294,78.011209
+1525,340023,Kelapur,PF,National,Yavatmal,Maharashtra,NHAI,20.019318,78.540218
+1526,330092,Gumanpura,PF,National,Tonk,Rajasthan,NHAI,25.99277,75.93845
+1527,370017,Rangalibazna Fee Plaza,PF,National,Jaldapara,West Bengal,NHAI,26.68477778,89.23083333
+1528,375013,Srirampur Toll Plaza,PF,National,Jajpur,Odisha,NHAI,20.678864,86.165581
+1529,350026,Konetipuram,PF,National,Konetipuram,Telangana,NHAI,16.6120211,78.6758205
+1530,350027,Manoharabad,PF,National,Medak,Telangana,NHAI,17.801103,78.471683
+1531,360046,Bogalur,PF,National,Ramnathpuram,Tamil Nadu,NHAI,9.3981517,78.7140107
+1532,360047,Tirupachethi,PF,National,Sivagangai,Tamil Nadu,NHAI,9.780766,78.335269
+1533,370015,Balibhasa Toll Plaza,PF,National,Balibhasa,West Bengal,NHAI,22.34462627,87.12665241
+1534,330032,Pallai,PF,National,Uniara,Rajasthan,NHAI,25.884209,75.958515
+1535,318007,Lakhanpur Toll Plaza,PF,National,Jammu,J&K,NHAI,32.382108,75.598964
+1536,545004,Fanda Toll Plaza,Conc.,State,Bhopal,Madhya Pradesh,MPRDC,23.2245025,77.1907789
+1537,545005,Amlaha Toll Plaza,Conc.,State,Sehore,Madhya Pradesh,MPRDC,23.1021426,76.875811
+1538,545006,Bhourasa Toll Plaza,Conc.,State,Dewas,Madhya Pradesh,MPRDC,22.9751708,76.2184202
+1539,380016,Parsoni Khem Toll Plaza,TOT,National,Purvi Champaran,Bihar,NHAI,26.451643,85.022817
+1540,320067,Babina Toll Plaza,TOT,National,Jhansi,Uttar Pradesh,Sh. Keshav Agarwal,25.216966,78.464471
+1541,320069,Dakhina Shekpur Toll Plaza,TOT,National,Rae Bareli,Uttar Pradesh,Arya Toll Infra Limited,26.5244139,81.0661465
+1542,350030,Gowraram Toll Plaza,PF,National,Gowraran village,Telangana,NHAI,17.268021,80.679776
+1543,392014,Pundag Toll Plaza,TOT,National,Ranchi,Jharkhand,NHAI,23.542861,85.502734
+1544,320068,Vighakhet Toll Plaza,TOT,National,Lalitpur,Uttar Pradesh,M/s Balaji Enterprises,24.789578,78.448855
+1545,560011,Vandiyur Toll Plaza,Conc.,State,Madurai,Tamil Nadu,SRI BALAJI TOLLWAYS,9.939015,78.1764076
+1546,560012,Chinthamani Toll Plaza,Conc.,State,Madurai,Tamil Nadu,SRI BALAJI TOLLWAYS,9.8767572,78.1349936
+1547,560013,Valayangulam Toll Plaza,Conc.,State,Madurai,Tamil Nadu,SRI BALAJI TOLLWAYS,9.8266107,78.0823004
+1548,312026,Chhara Toll Plaza,PF,National,Jhajjar,Haryana,NHAI,28.712879,76.724937
+1549,360048,Palaya Gandharvakottai,PF,National,Palaya GandharvakottaiÂ Village,Tamil Nadu,NHAI,10.6122581,79.0305683
+1550,320052,Raibha Toll Plaza,PF,National,Agra,Uttar Pradesh,NHAI,27.164087,77.815004
+1551,352041,Panchvati Colony Toll Plaza,PF,National,Vishakhapatnam,Andhra Pradesh,NHAI,17.7130381,83.2079988
+1552,379006,Pahammawlein Toll Plaza,PF,National,Ri-Bhoi,Meghalaya,M/s Sahakar Global Ltd,25.992753,91.860387
+1553,336017,Vavadi Toll Plaza,PF,National,Panchmahal,Gujarat,Essel Infra,22.792571,73.533274
+1554,336005,Khemana Toll Plaza,PF,National,Banaskantha,Gujarat,NHAI,24.241335,72.462709
+1555,375017,Hasanpur,PF,National,Jaipur - Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED,21.14661,86.1173884
+1556,375019,Banajodi,PF,National,Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED,21.7096842,85.5834615
+1557,330077,UNDVARIYA Toll Plaza,PF,National,Sirohi,Rajasthan,NHAI,24.633564,72.907054
+1558,336007,Vantada Toll Plaza,PF,National,Aravalli,Gujarat,NHAI,23.61615,73.254472
+1559,560009,Anumandhai,PF,State,Chennai,Tamil Nadu,TNRDC (ECR),12.1239228,79.9107642
+1560,352020,Mahasamudram,PF,National,Mahasamudram,Andhra Pradesh,NHAI,13.194889,79.017469
+1561,336016,Pithai Toll Plaza,PF,National,Kheda,Gujarat,Essel Infra,22.912793,72.957362
+1562,375018,Kantaghar,PF,National,Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED,21.5082779,85.8260561
+1563,360054,Shenbagampettai Toll Plaza,PF,National,Shenbagampettai Village,Tamil Nadu,NHAI,10.1588453,78.6509687
+1564,336011,Varahi Toll Plaza,PF,National,Patan,Gujarat,PATEL HIGHWAY MANAGEMENT,23.791235,71.427581
+1565,336012,Makhel Toll Plaza,PF,National,Kutch,Gujarat,PATEL HIGHWAY MANAGEMENT,23.490455,70.942639
+1566,336013,Bhiladi Toll Plaza,PF,National,Banaskantha,Gujarat,PATEL HIGHWAY MANAGEMENT,24.143877,71.977151
+1567,336014,Bhalgam Toll Plaza,PF,National,Banaskantha,Gujarat,PATEL HIGHWAY MANAGEMENT,23.912345,71.783983
+1568,375016,Gudipada or Gangapada,PF,National,Khordha,Odisha,NHAI,20.203404,85.668312
+1569,320071,Chamari Toll Plaza,PF,National,Jalaun,Uttar Pradesh,M/s Eagle Infra India Ltd,26.036608,79.577976
+1570,345051,Panihar,PF,National,Gwalior,Madhya Pradesh,Essel Infra,26.097998,78.015844
+1571,360031,SriPerumbadur,PF,National,Kanchipuram,Tamil Nadu,NHAI,12.982155,79.968944
+1572,340020,Daroada,PF,National,Wardha,Maharashtra,Anuj Kumar Aggarwal,20.450625,78.755243
+1573,336010,Dari  Toll Plaza,PF,National,Gir Somnath,Gujarat,Jetpur Somnath Tollways,20.961278,70.334386
+1574,336015,Gadoi  Toll Plaza,PF,National,Junagadh,Gujarat,Jetpur Somnath Tollways,21.425234,70.295437
+1575,330100,Akhepura,PF,National,Sikar,Rajasthan,NHAI,27.508121,75.344381
+1576,330098,Lathi,PF,National,Jaisalmer,Rajasthan,GR Infra / NHAI,27.0298232,71.4462213
+1577,330099,Ramdevara,PF,National,Jaisalmer,Rajasthan,GR Infra / NHAI,27.025063,71.946276
+1578,336018,Mokha Toll Plaza,PF,National,Kutch,Gujarat,Reliance,22.934663,69.801655
+1579,345052,Mud Kheda,PF,National,Gwalior,Madhya Pradesh,Essel Infra,25.6814588,77.7295852
+1580,330095,Bassi,PF,National,Chittaurgarh,Rajasthan,Chittorgarh Kota Toll Ways,25.033192,74.816392
+1581,320072,Pidhi Toll Plaza,PF,National,Jaisinghpur,Uttar Pradesh,NHAI,26.3486681,82.2470807
+1582,330096,Aroli,PF,National,Bhilwara,Rajasthan,Chittorgarh Kota Toll Ways,25.091152,75.198814
+1583,330097,Dhaneshwar,PF,National,Bundi,Rajasthan,Chittorgarh Kota Toll Ways,25.07255,75.598475
+1584,330105,Titoli,PF,National,Dausa,Rajasthan,M/s PNC Rajasthan Highways,26.7704556,76.3391978
+1585,330106,Rabawata,PF,National,Dausa,Rajasthan,M/s PNC Rajasthan Highways,26.5004499,75.9983801
+1586,320077,Kurana Toll Plaza,PF,National,Hapur,Uttar Pradesh,NHAI,28.6278,77.7849
+1587,345044,Jungawani,PF,National,Chhindwara,Madhya Pradesh,NHAI,22.377885,79.151005
+1588,370020,Palsit Toll Plaza,PF,National,Bardhaman,West Bengal,NHAI,23.178722,88.026395
+1589,370021,Dankuni Toll Plaza,PF,National,Hooghly,West Bengal,NHAI,22.698891,88.288862
+1590,352039,Pottipadu,PF,National,Krishna,Andhra Pradesh,NHAI,16.572341,80.862502
+1591,350029,Bhiknoor Toll Plaza,PF,National,Nizamabad,Telangana,NHAI,18.20539,78.398299
+1592,350028,Pippalwada,PF,National,Adilabad,Telangana,NHAI,19.781093,78.565772
+1593,360049,Paranur,PF,National,Kanchipuram,Tamil Nadu,NHAI,12.723887,79.981917
+1594,360050,Lembalakudi,PF,National,Pudukkottai,Tamil Nadu,NHAI,10.299776,78.770713
+1595,360051,Lechchumanapatti,PF,National,Pudukkottai,Tamil Nadu,NHAI,10.624233,78.747631
+1596,380018,Runni Shaidpur Toll Plaza,PF,National,Sitamarhi,Bihar,NHAI,26.373555,85.493897
+1597,320078,Sherpur Chamraha Toll Plaza,PF,National,Ghorkhpur,Uttar Pradesh,NHAI,26.821964,83.293971
+1598,320074,Raksha Toll Plaza,PF,National,Jhansi,Uttar Pradesh,Jhansi Baran Pathways,25.461841,78.451052
+1599,330103,Gogunda,PF,National,Udaipur,Rajasthan,Udaipur Pathways,24.766166,73.523999
+1600,370024,Namkhana Fee Toll Plaza,PF,National,Namkhana Village,West Bengal,NHAI,21.7501921,88.2365142
+1601,320070,Bara Toll Plaza,PF,National,Haidergarh,Uttar Pradesh,NHAI,26.6294023,81.3329506
+1602,320076,Asroga Toll Plaza,PF,National,Sultanpur,Uttar Pradesh,NHAI,26.301062,81.9459196
+1603,330107,Methoon Toll Plaza,PF,National,Jhalawar,Rajasthan,NHAI,24.420109,76.503892
+1604,345053,Milanpur Toll Plaza,PF,National,Betul,Madhya Pradesh,Oriental,21.8636943,77.9571605
+1605,345055,Mehra Toll Plaza,PF,National,Gwalior,Madhya Pradesh,Path,26.197589,78.240691
+1606,540015,ARAMBHA Toll Plaza,Conc.,State,Arambha,Maharashtra,ECA INFRASTRUCTURE INDIA,20.553225,78.971649
+1607,330101,Mundiyar Toll Plaza,PF,National,Baran,Rajasthan,Jhansi Baran Pathways,25.208633,77.136056
+1608,330102,Malera,PF,National,Sirohi,Rajasthan,Udaipur Pathways,24.712368,73.093755
+1609,336019,Kathpur Toll Plaza,PF,National,Sabarkatha,Gujarat,NHAI,23.410181,72.828618
+1610,536007,Bagodara Toll Plaza,PF,State,Ahmedabad,Gujarat,PWD Rajkot,22.6307,72.1793
+1611,545008,Bilantri Toll Plaza,Conc.,State,Ujjain,Madhya Pradesh,M/s Suryawavshi Infrastructure,24.020435,75.290547
+1612,540010,Vashi Toll Plaza,Conc.,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd,19.063952,72.980388
+1613,545018,Ghoradongri Toll Plaza,Conc.,State,Narmadapuram,Madhya Pradesh,M/s DBL Betul-Sarni Tollways,22.125288,78.025027
+1614,352042,Goshtani Gate Toll Plaza,PF,National,Vishakapatnam,Andhra Pradesh,NHAI,17.71386,83.212194
+1615,349007,Chotiya Toll Plaza,PF,National,Korba,Chhattisgarh,NHAI,22.7662305,82.4799789
+1616,545011,Hatta Toll Plaza,Conc.,State,Sagar,Madhya Pradesh,M/s DBL Hatta-dargoan Tollways,24.123109,79.55156
+1617,320075,Kunwarpur,PF,National,Jaunpur,Uttar Pradesh,Vinayendranath Upadhyay,25.6727919,82.3158437
+1618,350031,Komalla Fee Plaza,PF,National,Komalla (V),Telangana,NHAI,17.77737111,79.28361111
+1619,380017,Barsoni Toll Plaza,PF,National,Purnia,Bihar,NHAI,25.804725,87.590748
+1620,545012,Devkhedi Toll Plaza,Conc.,State,Gwalior,Madhya Pradesh,DBL Ashoknagar-Vidisha Tollway,24.516005,77.769897
+1621,545013,Singhpur Toll Plaza,Conc.,State,Rewa,Madhya Pradesh,M/s DBL Uchera-Nagod Tollways,24.712917,80.585349
+1622,360038,Salaipudur,PF,National,Thoothukudi,Tamil Nadu,Raima Toll Road(MEP),8.975702,77.774608
+1623,380022,Bhagalpur Toll Plaza,PF,National,Bhagalpur,Bihar,NHAI,25.2322,87.0094
+1624,536008,AMTL-TP-01 Vasna-Iyava,Conc.,State,Vasna-Iyava,Gujarat,L&T Ahmedabad-Maliya Tollway,23.0073,72.3477
+1625,536009,AMTL-TP02-Malvan,Conc.,State,Malvan,Gujarat,L&T Ahmedabad-Maliya Tollway,23.0709,71.785
+1626,536010,AMTL-TP03-Soldi,Conc.,State,Soldi,Gujarat,L&T Ahmedabad-Maliya Tollway,23.0009,71.3728
+1627,340024,Bhamb Raja Toll Plaza,PF,National,Yavatmal,Maharashtra,NHAI,20.234893,78.017434
+1628,326006,Bhagwanpur Toll Plaza,PF,National,Bhagwanpur,Uttarakhand,NHAI,29.931253,77.820383
+1629,320079,Sayyad Mazra Toll Plaza,PF,National,Sayed Mazra,Uttar Pradesh,NHAI,30.00376,77.710907
+1630,545010,Sanawad Toll Plaza,Conc.,State,Indore,Madhya Pradesh,M/s DBL Mundi-Sanawad Tollways,22.166554,76.113996
+1631,336008,Kuchadi Toll Plaza,PF,National,Porbander,Gujarat,NHAI,21.69753663,69.53280984
+1632,336009,Okhamadi Toll Plaza,PF,National,Dwarka,Gujarat,NHAI,22.08019901,69.13387008
+1633,545007,Kherkheda,Conc.,State,Ujjain,Madhya Pradesh,DBL Sitamau-Suwasra Tollways,24.01664,75.393569
+1634,345054,Ramnagar,Conc.,National,Shivpuri,Madhya Pradesh,Jhansi Baran Pathways,25.278913,77.614165
+1635,314029,Chaukiman Toll Plaza,Conc.,National,Ludhiana,Punjab,Ludhiana -Talwandi Toll Road,30.82474,75.59007
+1636,340019,Baswant Toll Plaza,PF,National,Nashik,Maharashtra,NHAI,20.141754,73.9764485
+1637,345056,Dagrai Toll Plaza,PF,National,Datia,Madhya Pradesh,NHAI,25.6158907,78.4787578
+1638,350032,Komatipalli Fee  Plaza,PF,National,Komatipalli,Telangana,NHAI,18.02173544,79.5
+1639,392011,Murma Toll Plaza,PF,National,Ranchi,Jharkhand,NHAI,23.4467255,85.1199769
+1640,545016,Tikitoria,Conc.,State,Sagar,Madhya Pradesh,DBL Patan-Rehli Tollways,23.613398,79.087741
+1641,545017,Gadaghat,Conc.,State,Sagar,Madhya Pradesh,DBL Patan-Rehli Tollways,23.301857,79.673409
+1642,375020,Khamara  Toll Plaza,PF,National,Khamar,Odisha,NHAI,21.249964,85.193065
+1643,312027,Badarpur faridabad Toll Plaza,PF,National,Faridabad,Haryana,Badarpur Faridabad Tollway ltd,28.476208,77.305485
+1644,556011,Sherewada Toll Plaza,Conc.,State,Kundagol,Karnataka,MITRA INFRA SOLUTIONS,15.260165,75.177026
+1645,370023,Guabari Toll Plaza,PF,National,Alipurduar,West Bengal,NHAI,26.476623,89.756542
+1646,380023,Bishunpurwa Toll Plaza,PF,National,Motihari,Bihar,NHAI,26.9970148,84.375504
+1647,370025,Mejia Toll Plaza,PF,National,Mejia,West Bengal,NHAI,23.537809,87.12463
+1648,370026,Kalapathar Toll Plaza,PF,National,Kalapathar,West Bengal,NHAI,23.21784,86.936479
+1649,545014,Silwani,Conc.,State,Sagar,Madhya Pradesh,DBL Silwani-Sultanganj Tollway,23.309393,78.45677
+1650,545015,Talchiri,Conc.,State,Sagar,Madhya Pradesh,DBL Silwani-Sultanganj,23.751029,78.756334
+1651,540011,Airoli,Conc.,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd,19.153364,72.965778
+1652,540012,Mulund(EEH),Conc.,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd,19.1534,72.9657
+1653,540014,Dahisar,Conc.,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd,19.2587,72.8718
+1654,352040,Davaluru,PF,National,Kankipadu,Andhra pradesh,NHAI,16.4125284,80.7880218
+1655,556014,Papanashi,Conc.,State,Avadi Somapur,Karnataka,Kesar Investment Securities,15.3582487,75.6863757
+1656,370022,Surjapur Toll Plaza,PF,National,Uttar Dinajpur,West Bengal,NHAI,25.933558,87.843381
+1657,536012,Vanpari-Paddhari Toll Plaza,Conc.,State,Rajkot,Gujarat,L&T,22.4460011,70.5835058
+1658,536013,Soyal Toll Plaza,Conc.,State,Jamnagar,Gujarat,L&T,22.5501006,70.3491712
+1659,536014,Jamnagar Bypass-Vadinar,Conc.,State,Jamnagar,Gujarat,L&T,22.4271343,69.9139827
+1660,370019,Sulkhapara Fee Plaza,PF,National,Chalsa,West Bengal,NHAI,26.87330556,88.91472222
+1661,349008,Pachira,PF,National,Surajpur,Chhattisgarh,NHAI,23.195053,82.925264
+1662,312028,Peont,PF,National,Karnal,Haryana,NHAI,29.623442,76.784786
+1663,320080,Sarsawa Toll Plaza,PF,National,Sarsawa,Uttar Pradesh,MBL (GSY) Road Ltd.,30.04077778,77.3875
+1664,352043,Yerradoddi Toll Plaza,PF,National,Anantpur,Andhra Pradesh,NHAI,14.168016,78.134528
+1665,352044,Jellipalli Toll Plaza,PF,National,Anantpur,Andhra Pradesh,NHAI,14.168867,78.144507
+1666,336021,Nageshri Toll Plaza,PF,National,Nageshri,Gujarat,NHAI,20.9166056,71.3220944
+1667,370016,Ghogarkuthi Fee Toll Plaza,PF,National,Baxirhat,West Bengal,NHAI,26.30493889,89.61888889
+1668,370018,Satbhaiya Fee Toll Plaza,PF,National,Naxalbari,West Bengal,NHAI,26.687394,88.2310881
+1669,330108,Hingonia Toll Plaza,PF,National,Jaipur,Rajasthan,NHAI,26.8509,75.9247
+1670,330109,Sitarampura Toll Plaza,PF,National,Jaipur,Rajasthan,NHAI,26.7473,75.7686
+1671,330031,Lal ka Khera,PF,National,Jahazpur,Rajasthan,NHAI,25.482404,75.31341
+1672,352045,Bandapalli,PF,National,Rayachoti,Andhra Pradesh,NHAI,14.131169,78.75682
+1673,545019,Eklehra Toll Plaza,Conc,State,Narmadapuram,Madhya Pradesh,Betul-Sarni Tollways,22.192429,78.689015
+1674,378009,Patgaon Toll Plaza,PF,National,Kokrajhar,Assam,NHAI,26.567821,90.218439
+1675,380025,Pokhraira Fee Plaza,PF,National,Sitamarhi,Bihar,NHAI,26.0558561,85.1829012
+1676,367004,Poonarimangalam,PF,National,Ernakulam (Cochin),Kerala,NHAI,10.010715,76.257992
+1677,378008,Raha,PF,National,Guwahati,Assam,NHAI,26.245792,92.54147
+1678,320095,Ramnagar Gansiyari,PF,National,Allahabad,Uttar Pradesh,NHAI,25.726413,81.92581
+1679,312032,Jaloli Fee Plaza,PF,National,Jaloli,Haryana,NHAI,30.5859671,76.9452524
+1680,349010,Kumhari,PF,National,Kumhari,Chhattisgarh,NHAI,21.2525171,81.5368479
+1681,345060,Ujara,PF,National,Ujara,Madhya Pradesh,NHAI,25.0854986,79.7085139
+1682,320087,Harro Toll Plaza near Ganne,PF,National,Prayagraj,Uttar Pradesh,NHAI,25.1154169,81.7543869
+1683,320085,Mohammad Ibrahimpur,PF,National,Bilari,Uttar Pradesh,NHAI,28.5802427,78.796195
+1684,380028,Brindawan Fee Plaza,PF,National,Chhapra,Bihar,NHAI,25.7478818,84.9518215
+1685,345064,Mohtara Toll Plaza,PF,National,Sihora,Madhya Pradesh,NHAI,23.4336923,80.0873052
+1686,320082,Mungari,PF,National,Mungari,Uttar Pradesh,NHAI,25.2987667,81.9478441
+1687,380024,Sonho Fee Plaza,PF,National,Chhapra,Bihar,NHAI,25.924418,84.967832
+1688,540016,Mhasane Phata,Conc.,State,Ahmednagar,Maharashtra,Chetak Enterprises Limited.,18.9331389,74.4929167
+1689,330116,Bagaliya Toll Plaza,BOT,National,Beawar,Rajasthan,ITNLÂ (MoRTH),25.8843501,74.1608431
+1690,312030,Thana Village Toll Plaza,PF,National,Kaithal,Haryana,NHAI,29.9105,76.50713
+1691,320083,Shahabpur Toll Plaza,PF,National,Bahraich Rd,Uttar Pradesh,NHAI,26.949445,81.256453
+1692,320086,Sabli Toll Plaza,PF,National,Puranpur,Uttar Pradesh,NHAI,28.154095,80.100556
+1693,330117,Baggar Toll Plaza,BOT,National,Gomti,Rajasthan,ITNLÂ (MoRTH),25.5903343,73.9028527
+1694,345059,Pathoroundi Toll Plaza,PF,National,Kotma,Madhya Pradesh,NHAI,23.2492475,82.0589565
+1695,345063,Pandutala Toll Plaza,PF,National,Mandla,Madhya Pradesh,NHAI,22.390935,80.808638
+1696,356024,Yeddore Toll Plaza,PF,National,Mysore,Karnataka,NHAI,12.247019,76.883537
+1697,330114,Badi Ghati Toll Plaza,Conc.,National,Pushkar,Rajasthan,B.S. Group (MoRTH),26.5475364,74.5069619
+1698,545020,Bela,Conc.,State,Sagar,Madhya Pradesh,DBL Tikamgarh-Nowgoav,25.076435,79.327525
+1699,350034,Dilawarpur fee plaza,PF.,National,Bodhan,Telangana,NHAI,19.0989609,78.2133902
+1700,345057,Shadol/Dhuwar,PF,National,Bhopal,Madhya Pradesh,NHAI,23.2816398,81.4293698
+1701,318008,Thandikhui Toll Plaza,PF,National,Samba,J&K,Rakesh Kumar Choudhary,32.6122983,74.9376458
+1702,330110,Mandana Toll Plaza,PF,National,Mandana,Rajasthan,NHAI,24.9657418,75.9352303
+1703,545021,Mawai Toll Plaza,Conc.,State,Sagar,Madhya Pradesh,DBL Tikamgarh-Nowgoav,24.791454,78.924038
+1704,336020,Kobadi Toll Plaza,PF,National,Bhavnagar,Gujarat,NHAI,21.61976,72.14159333
+1705,378010,Manderdisa,PF,National,Dima Hasao,Assam,NHAI,25.736519,93.138524
+1706,320096,Dularpur,PF,National,Bahraich,Uttar Pradesh,NHAI,27.578462,81.633657
+1707,345070,Johariya Sheikh Toll Plaza,PF,National,Sagar,Madhya Pradesh,NHAI,23.797401,78.545475
+1708,340032,Selu Amba Toll Plaza,PF,National,Beed,Maharashtra,NHAI,18.676103,76.391998
+1709,340025,Kelwad,PF,National,Nagpur,Maharashtra,NHAI,21.47162,78.872554
+1710,345067,Chikhalikala,PF,National,Betul,Madhya Pradesh,NHAI,21.842211,78.433626
+1711,340033,Fekari,Conc,National,Bhusawal,Maharashtra,Fekari Infrastructure,21.040041,75.829323
+1712,380026,Chapraitha Fee Plaza,PF,National,Chhapra,Bihar,NHAI,26.0265755,84.4909225
+1713,356017,Bagepalli Toll Plaza,PF,National,Chikballapur,Karnataka,NHAI,13.79295,77.764358
+1714,318006,Kachkoot Toll Plaza,PF,National,Pulwama,J&K,NHAI,33.874607,75.043232
+1715,320093,Amdi Toll Plaza,PF,National,Lohra,Uttar Pradesh,NHAI,26.369652,82.886172
+1716,320094,Aindhi Toll Plaza,PF,National,Amethi,Uttar Pradesh,NHAI,26.235591,81.609372
+1717,320090,Akshda Toll Plaza,PF,National,Gorakhpur,Uttar Pradesh,NHAI,26.7288131,83.2754187
+1718,352047,Halaharvi Toll Plaza,PF,National,Halaharvi,Andhra Pradesh,NHAI,15.819781,77.454008
+1719,356026,Kannole Toll Plaza,PF,National,Gulbarga,Karnataka,NHAI,17.3970044,76.7064433
+1720,356027,Harwal Toll Plaza,PF,National,Gulbarga,Karnataka,NHAI,17.021227,76.6828832
+1721,340031,Haladgao Toll Plaza,PF,National,Wardha,Maharashtra,NHAI,20.852147,78.873033
+1722,345068,Bahoripar Toll Plaza,PF,National,Jabalpur,Madhya Pradesh,NHAI,23.04675,79.9073666
+1723,336022,Gorsar Toll Plaza,PF,National,Gorsar,Gujarat,Kalthia Infra Projects,21.31811111,69.90972222
+1724,375022,Brajrajnagar Toll Plaza,PF,National,Brajrajnagar,Odisha,NHAI,21.8613868,83.9347122
+1725,340028,Badewadi Toll Plaza,PF,National,Ahmednagar,Maharashtra,NHAI,19.172077,75.346182
+1726,352048,Gollaprolu Toll Plaza,PF,National,Pithapuram,Andhra Pradesh,NHAI,17.139122,82.271843
+1727,320098,Chhapar Toll Plaza,PF,National,Muzaffarnagar,Uttar Pradesh,Raj Shyama,29.585833,77.778333
+1728,320089,Bharatkhund Toll Plaza,PF,National,Varanasi,Uttar Pradesh,NHAI,26.635829,82.126764
+1729,320091,Belon Toll Plaza,PF,National,Narora,Uttar Pradesh,NHAI,28.1884316,78.3480532
+1730,340030,Ashiv Toll Plaza,PF,National,Ausa,Maharashtra,NHAI,18.1278333,76.3583021
+1731,345069,Kherwasani Toll Plaza,PF,National,Katni,Madhya Pradesh,NHAI,24.1222993,80.5994996
+1732,349013,Jagtara Toll Plaza,PF,National,Kanker,Chhattisgarh,NHAI,20.6046999,81.4195136
+1733,340027,Dumbarwadi Toll Plaza,PF,National,Ahmednagar,Maharashtra,NHAI,19.244419,74.013193
+1734,320081,Koyla Toll Plaza,PF,National,Rampur,Uttar Pradesh,NHAI,28.82978,79.096764
+1735,340026,Dhoki Toll Plaza,PF,National,Ahmednagar,Maharashtra,NHAI,19.1559589,74.4111722
+1736,367005,Kollam Bypass Toll Plaza,PF,National,Kollam,Kerala,NHAI,8.921575,76.575862
+1737,540023,Nanduri,Conc,State,Nanduri,Maharashtra,WCB Toll Road Ltd.,20.200237,79.029373
+1738,540024,Visapur,Conc,State,Visapur,Maharashtra,WCB Toll Road Ltd.,19.890278,79.339722
+1739,312035,Sirohi Bahali  Toll Plaza,PF,National,Narnaul,Haryana,NHAI,27.93268775,76.12719041
+1740,392017,Kokpara Toll Plaza,PF,National,Kokpara,Jharkhand,NHAI,22.4459665,86.5983467
+1741,330111,Netra,PF,National,Jodhpur,Rajasthan,NHAI,26.578709,73.155029
+1742,330112,Tankala,PF,National,Nagaur,Rajasthan,NHAI,27.0133229,73.5005487
+1743,350033,Muthojipet,PF,National,Vijayawada,Telangana,NHAI,17.9740755,79.9144659
+1744,326007,Bhadarabad Toll Plaza,PF,National,Bhadarabad,Uttarakhand,NHAI,29.911694,78.020722
+1745,345071,Sonkacch Toll Plaza,PF,National,Sehore,Madhya Pradesh,NHAI,23.360541,77.218446
+1746,345072,Kachnaria Toll Plaza,PF,National,Rajgarh,Madhya Pradesh,NHAI,23.863596,76.92223
+1747,349012,Bhojpuri Toll Plaza,PF,National,Saragaon,Chhattisgarh,NHAI,21.9322781,82.0123636
+1748,326008,Lachiwala Toll Plaza,PF,National,Dehradun,Uttarakhand,Riddhi Siddhi Associates,30.209235,78.125393
+1749,345073,Khawasa Toll Plaza,PF,National,Khawasa,Madhya Pradesh,NHAI,21.703044,79.433797
+1750,340034,Kharbi Toll Plaza,PF,National,Bramhapuri,Maharashtra,NHAI,20.606111,79.823611
+1751,350035,Singarajupally Toll Plaza,PF,National,Suryapet,Telangana,NHAI,17.589631,79.276944
+1752,350036,Yerkaram Toll Plaza,PF,National,Suryapet,Telangana,NHAI,17.247402,79.580502
+1753,330118,Raisinghnagar Toll Plaza,PF,National,Ganganagar,Rajasthan,NHAI,29.486832,73.391
+1754,330119,Patroda Toll Plaza,PF,National,Ganganagar,Rajasthan,NHAI,29.058447,73.095777
+1755,392018,Nagwan Toll Plaza,PF,National,Hazaribagh,Jharkhand,NHAI,24.044628,85.385762
+1756,320099,Jiwana Toll Plaza,PF,National,Baghpat,Uttar Pradesh,NHAI,29.165072,77.276193
+1757,352051,Medapi Toll Plaza,PF,National,Prakasam,Andhra Pradesh,NHAI,16.024896,79.481851
+1758,352052,Pandillapalli Toll Plaza,PF,National,Prakasam,Andhra Pradesh,NHAI,15.465943,79.072447
+1759,380029,Khaikhat Toll Plaza,PF,National,Kishangarh,Bihar,NHAI,26.318939,87.9026
+1760,545022,MHOW Plaza,BOT,State,Mhow,Madhya Pradesh,MHOW AGROH PATHWAYS,22.607405,75.794223
+1761,545023,Manankheda,Conc.,State,Manankheda,Madhya Pradesh,Ashoka Concessions,23.79626925,75.10225026
+1762,545024,Piplyamandi,Conc.,State,Piplyamandi,Madhya Pradesh,Ashoka Concessions,24.168848,75.013273
+1763,545025,Nayagaon,Conc.,State,Nayagaon,Madhya Pradesh,Ashoka Concessions,24.572623,74.761591
+1764,540025,Khadka Toll Plaza,Conc.,State,Khadka village,Maharashtra,Keti Sangam Infrastructure,19.555563,74.982173
+1765,312031,Khatkar Toll Plaza,PF,National,Narwana,Haryana,NHAI,29.3945179,76.2525359
+1766,540022,MMKIPL Toll Plaza,Conc.,State,Nashik,Maharashtra,MMK Infra and Toll,19.9798867,74.490845
+1767,340035,Hatnoor Toll Plaza,PF,National,Hatnoor,Maharashtra,NHAI,20.193149,75.132863
+1768,556016,Hemagudda Toll Plaza,DBFOT,State,Hemagudda Village,Karnataka,Sindhanur Gangavathi,15.431844,76.405685
+1769,312029,Saini Majra Toll Plaza,PF,National,Saini Majra,Haryana,NHAI,30.196922,76.70574
+1770,545028,Gangiwara Toll Plaza,BOT,State,Chhindwara,Madhya Pradesh,KETI Infrastructure,22.121749,78.828202
+1771,545029,Susari Toll Plaza,BOT,State,Dhar,Madhya Pradesh,KETI Highway,22.160372,74.774565
+1772,545030,Nanpur Toll Plaza,BOT,State,Alirajpur,Madhya Pradesh,KETI Highway,22.27008,74.51252
+1773,545031,Kuabadla Toll Plaza,BOT,State,Chhindwara,Madhya Pradesh,KETI Infrastructure,22.36342938,78.62131517
+1774,550020,Duddeda Toll Plaza,Conc.,State,Medak,Telangana,HKR ROADWAYS,18.0002,78.8876
+1775,550021,Renikunta Toll Plaza,Conc.,State,Karimnagar,Telangana,HKR ROADWAYS,18.2943,79.1171
+1776,550022,Basanthnagar Toll Plaza,Conc.,State,Karimnagar,Telangana,HKR ROADWAYS,18.7042,79.417
+1777,545032,Billaua Toll Plaza,BOT,State,Gwalior,Madhya Pradesh,PATH,26.055268,78.252663
+1778,545027,Chikliya Toll Plaza,Conc.,State,Ratlam,Madhya Pradesh,Western MP Infrastructure,23.2305,75.127
+1779,330113,Hanumangarh Toll Plaza,PF,National,Hanumangarh,Rajasthan,NHAI,29.5198926,74.3359579
+1780,556017,Marali,DBFOT,State,Marali Village,Karnataka,Sindhanur Gangavathi,15.4669393,76.5742425
+1781,330120,Narsana,PF,National,Jalore,Rajasthan,NHAI,25.485729,72.569789
+1782,375023,Bolangir,PF,National,Bolangir,Odisha,NHAI,20.740615,83.630556
+1783,317003,Sanwara Toll Plaza,PF,National,Sanwara,Himachal Pradesh,NHAI,30.890896,77.005475
+1784,375025,Sukhuapada Toll Plaza,PF,National,Baripada,Odisha,NHAI,22.0753298,86.6433381
+1785,556018,Kurki Toll Plaza,Conc.,State,Kurki Village,Karnataka,LEJONET ITS Tech,14.351626,75.979384
+1786,556019,Javoor Toll Plaza,Conc.,State,Javoor Village,Karnataka,LEJONET ITS Tech,13.794751,75.982067
+1787,320101,Dasna Plaza DME KM 2760,PF,National,Ghaziabad,Uttar Pradesh,NHAI,28.674961,77.495589
+1788,320102,Rasoolpur Sikrod DME KM 3134,PF,National,Ghaziabad,Uttar Pradesh,NHAI,28.704345,77.522078
+1789,320103,Bhojpur Plaza DME KM 4570,PF,National,Ghaziabad,Uttar Pradesh,NHAI,28.800192,77.619238
+1790,545009,Sardarpur Toll Plaza,Conc.,State,Dhar,Madhya Pradesh,DBL Sardarpur Tollways,22.742188,74.986108
+1791,545026,Chokala Toll Plaza,Conc.,State,Dhar,Madhya Pradesh,Western MP Infrastructure,22.931,75.2507
+1792,540017,Katol Road Toll Plaza,Conc.,State,Nagpur,Maharashtra,GHAI Construction And JV,21.1843609,79.0319083
+1793,540019,Umred Road Toll Plaza,Conc.,State,Nagpur,Maharashtra,GHAI Construction And JV,21.1034495,79.1453082
+1794,540020,Ring Road Toll Plaza,Conc.,State,Nagpur,Maharashtra,GHAI Construction And JV,21.1579085,79.0102789
+1795,540021,Wadi Road Toll Plaza,Conc.,State,Nagpur,Maharashtra,GHAI Construction And JV,21.1489772,79.0028058
+1796,380019,Balgudar Toll Plaza,PF,National,Lakhisarai,Bihar,NHAI,25.202348,86.081872
+1797,375026,Bideibadkudar Toll Plaza,PF,National,Deogarh,Odisha,NHAI,21.505816,85.058237
+1798,320108,Puraini Toll Plaza,PF,National,Puraini,Uttar Pradesh,NHAI,29.40749,78.446624
+1799,380030,Toda Toll Plaza,PF,National,Nalanda,Bihar,NHAI,25.242639,85.786389
+1800,352053,Jodi Dharmapuram Toll Plaza,PF,National,Jodi Dharmapuram,Andhra Pradesh,NHAI,14.987394,77.915283
+1801,320109,Aaspur Toll Plaza,PF,National,Etah,Uttar Pradesh,NHAI,27.48692,78.79217
+1802,345074,Patariya Goyal Toll Plaza,PF,National,Patariya Goyal,Madhya Pradesh,MD Karimunnisa,23.131971,76.689998
+1803,349015,Paraghat Toll Plaza,PF,National,Bilaspur,Chhattisgarh,NHAI,22.010617,82.323591
+1804,545033,Badgaon Toll Plaza,BOT,State,Khandwa,Madhya Pradesh,Khandwa Agroh Pathways,21.298056,76.321111
+1805,545034,Jaswadi Toll Plaza,BOT,State,Khandwa,Madhya Pradesh,Khandwa Agroh Pathways,21.7875,76.444167
+1806,545044,Malyakhedi,DBFOT,State,Mandsaur,Madhya Pradesh,SHUKLA GLOBAL DEVELOPERS,24.047369,75.035803
+1807,520005,Jewar Toll Plaza,BOT,State,Jewar,Uttar Pradesh,Jaypee Infratech Ltd,28.11465,77.575418
+1808,520006,Agra Toll Plaza,BOT,State,Agra,Uttar Pradesh,Jaypee Infratech Ltd,27.303578,78.003327
+1809,520007,Mathura Toll Plaza,BOT,State,Mathura,Uttar Pradesh,Jaypee Infratech Ltd,27.660315,77.733317
+1810,545046,Khiriya Naka Toll Plaza,DBFOT,State,Tikamgarh,Madhya Pradesh,SVT INFRASTRUCTURE,24.642486,78.764694
+1811,545039,Baroli Toll Plaza,Conc.,State,Indore,Madhya Pradesh,Mahakaleshwar Tollways,22.816212,75.848384
+1812,545040,Ninora Toll Plaza,Conc.,State,Ujjain,Madhya Pradesh,Mahakaleshwar Tollways,23.0815536,75.8156813
+1813,345075,Pachwara Toll Plaza,PF,National,Nowgong,Madhya Pradesh,NHAI,25.134303,79.376709
+1814,352054,Gadanki Toll Plaza,PF,National,Gadanki,Andhra Pradesh,NHAI,13.478827,79.188024
+1815,545037,Manawarkukshi Toll Plaza,Conc.,State,Manawar,Madhya Pradesh,Agroh Infra,22.210352,75.025833
+1816,320111,Gulhaura Toll Plaza,PF,National,Siddharthanagar,Uttar Pradesh,NHAI,27.443827,82.924607
+1817,545041,Dewas By pass Toll Plaza,Conc.,State,Dewas,Madhya Pradesh,Dewas Bypass tollway,22.929,76.0463
+1818,352055,Bathalapalli Toll Plaza,PF,National,Bathalapalli,Andhra Pradesh,NHAI,14.50018,77.79659
+1819,345076,Mandwara Toll Plaza,PF,National,Mandwara,Madhya Pradesh,NHAI,22.050986,75.11918
+1820,370034,Panikauri Toll Plaza,PF,National,New Jalpaiguri,West Bengal,NHAI,26.573915,88.522596
+1821,370035,Husludanga Toll Plaza,PF,National,Jalpaiguri,West Bengal,NHAI,26.5605725,88.9195854
+1822,545042,Pagara-Guna Cantt,Conc.,State,Guna,Madhya Pradesh,Aryavrat Tollways,24.650828,77.422362
+1823,545043,Futera Toll Plaza,Conc.,State,Ashoknagar,Madhya Pradesh,Aryavrat Tollways,24.669794,77.748436
+1824,360057,Perali Toll Plaza,PF,National,Perambalur,Tamil Nadu,NHAI,11.237523,78.96018
+1825,545047,Taloon Toll Plaza,DBFOT,State,Barwani,Madhya Pradesh,VKS Shukla,22.032864,74.962111
+1826,545048,Julwaniya Toll Plaza,DBFOT,State,Julwaniya,Madhya Pradesh,VKS Shukla,21.856536,75.221664
+1827,545049,Bijanhai Toll Plaza,DBFOT,State,Silwani,Madhya Pradesh,VKS Shukla,23.131733,78.506008
+1828,545050,Boras Toll Plaza,DBFOT,State,Gardarwada,Madhya Pradesh,VKS Shukla,23.03015,78.514381
+1829,345077,Mahauri Toll Plaza,PF,National,Mahauri,Madhya Pradesh,NHAI,24.577226,80.690857
+1830,545045,Pandola,DBFOT,State,Sheopur,Madhya Pradesh,VKS SHEOPUR BARODA,25.56625,76.6529
+1831,545069,Ichoul Toll Plaza,Conc.,State,Unchehra,Madhya Pradesh,TBCL Satna Umaria,24.349306,80.778889
+1832,545070,Ubra Toll Plaza,Conc.,State,Maihar,Madhya Pradesh,TBCL Satna Umaria,23.94133333,80.81305556
+1833,545051,Chakrawda Toll Plaza,BOT,State,Ujjain,Madhya Pradesh,Topworth Tollways,23.2547289,75.7179749
+1834,545052,Bhuteda Toll Plaza,BOT,State,Jaora,Madhya Pradesh,Topworth Tollways,23.5968864,75.1640542
+1835,545056,Garra Toll Plaza,PF,State,BALAGHAT,Madhya Pradesh,Skylark,21.807047,80.152498
+1836,545076,Gadariya Toll Plaza,PF,State,Singrauli,Madhya Pradesh,UDIT BETUL PARATWARA,24.146502,82.491474
+1837,550023,Madugulapally Toll Plaza,DBFOT,State,Madugulapally,Telangana,N.A.M.Expressway,16.9794,79.4537
+1838,545054,Rangaon,Conc.,State,Manawar,Madhya Pradesh,Khalghat Manawar,22.18080556,75.1875
+1839,545055,Kanad,Conc.,State,Agar,Madhya Pradesh,Sarangpur Agar Road,23.67727778,76.13361111
+1840,318011,Ujroo Toll Plaza,PF,National,Quazigund,J&K,NHAI,33.5678,75.1832
+1841,345078,Devgaon Toll Plaza,PF,National,Chhatarpur,Madhya Pradesh,NHAI,24.782925,79.81691
+1842,367006,Thiruvallam Toll Plaza,PF,National,Thiruvananthapuram,Kerala,NHAI,8.432799,76.959632
+1843,545068,MBL NEWARGAON,Conc.,State,Balaghat,Madhya Pradesh,MBL MP Toll Road,21.826114,80.041645
+1844,545079,Datia-Bhander Toll Plaza,Conc.,State,Bhander,Madhya Pradesh,D P JAIN DATIA BHANDER,25.716217,78.701949
+1845,545077,Palsud Plaza,Conc.,State,Palsud,Madhya Pradesh,Valecha Badwani Sendhwa,21.813416,74.974632
+1846,545080,TCIL LAKHNADON TOLL,Conc.,State,Village chhitapar,Madhya Pradesh,TCIL Lakhnadon,22.65033,79.93069
+1847,352056,VeeraValli Toll Plaza,PF,National,Anantapalli,Andhra Pradesh,NHAI,16.997034,81.491183
+1848,545078,Ujjain Sihasth Bypass,Conc.,State,Ujjain,Madhya Pradesh,Ujjayini Highways,23.173326,75.734782
+1849,545084,Bhimpura Toll Plaza,Conc.,State,Bhind,Madhya Pradesh,UPP Tollways,26.657489,78.869295
+1850,340036,Valsang Toll Plaza,PF,National,Valsang,Maharashtra,NHAI,17.588648,76.076227
+1851,340037,Nashirabad Toll Plaza,PF,National,Nashirabad,Maharashtra,NHAI,21.016609,75.684364
+1852,320114,Semra Toll Plaza,PF,National,Maharajganj,Uttar Pradesh,NHAI,27.0665989,83.610558
+1853,545082,Kotatala Toll Plaza,Conc.,State,Damoh,Madhya Pradesh,Damoh Jabalpur Toll Roads,23.780076,79.464341
+1854,556020,Kamthana Toll Plaza,PF,State,Bidar,Karnataka,JKL Stone,17.845891,77.448414
+1855,556021,Ainoli Toll Plaza,PF,State,Chincholi,Karnataka,JKL Stone,17.503027,77.431011
+1856,345079,Vishankheda Toll Plaza,PF,National,Raisen,Madhya Pradesh,NHAI,23.022194,77.570611
+1857,312036,Kundali,Conc.,State,Kundali,Haryana,Skylark world,28.911104,77.025054
+1858,312037,Kharkhoda,Conc.,State,Kharkhoda,Haryana,Skylark world,28.858488,76.946385
+1859,312038,Asoda,Conc.,State,Asoda,Haryana,Skylark world,28.725089,76.846528
+1860,312039,Badli,Conc.,State,Badli,Haryana,Skylark world,28.575254,76.820849
+1861,312040,Farukhnagar,Conc.,State,Farukhnagar,Haryana,Skylark world,28.455781,76.856801
+1862,312041,PATODI,Conc.,State,Patodi,Haryana,Skylark world,28.391538,76.86769
+1863,312042,MANESHAR-7A,Conc.,State,Manesar,Haryana,Skylark world,28.326367,76.890515
+1864,312043,MANESHAR-7B,Conc.,State,Manesar,Haryana,Skylark world,28.310995,76.895142
+1865,312044,TAURU,Conc.,State,Tauru,Haryana,Skylark world,28.219695,76.997181
+1866,312045,NUH,Conc.,State,Nuh,Haryana,Skylark world,28.179226,77.074981
+1867,312046,PALWAL,Conc.,State,Palwal,Haryana,Skylark world,28.102706,77.30527
+1868,545035,Sarlapada Toll Plaza,Conc.,State,Ratlam,Madhya Pradesh,Agroh Infra,23.492569,74.800278
+1869,545036,Delanpur Toll Plaza,Conc.,State,Ratlam,Madhya Pradesh,Agroh Infra,23.417531,74.996667
+1870,545083,Katangi Toll Plaza,Conc.,State,Jabalpur,Madhya Pradesh,Damoh Jabalpur Toll Roads,23.490873,79.825938
+1871,313003,Morwala Toll Plaza,PF,National,Charkhi Dadri,Haryana,NHAI,28.641,76.3815
+1872,320116,Shrishikalan Toll Plaza,PF,National,Mahoba,Uttar Pradesh,NHAI,25.434629,80.1279154
+1873,320130,Kaithi plaza,PF,National,Varanasi,Uttar Pradesh,NHAI,25.494937,83.147623
+1874,352057,Vaddupalli Toll Plaza,PF.,National,Anantapur,Andhra Pradesh,NHAI,14.67349,77.45764
+1875,556022,Chinchani plaza,Conc,State,Chikodi,Karnataka,Vinay Lad Enterprises,16.418376,74.540661
+1876,556023,Kabbur plaza,Conc,State,Chikodi,Karnataka,Vinay Lad Enterprises,16.359437,74.701976
+1877,536015,Bochasan Toll Plaza,Conc.,State,Anand,Gujarat,RKC Infrabuilt,22.413346,72.8518924
+1878,545074,Piplothar Toll Plaza,PF,State,Datia,Madhya Pradesh,UDIT BETUL PARATWARA,25.581462,78.375242
+1879,545097,Bagwada Fee Plaza,PF,National,Sehore,Madhya Pradesh,NHAI,22.781523,77.733774
+1880,552001,Thummalacheruvu Toll Plaza,DBFOT,State,Thummalacheruvu,Andhra Pradesh,NAM Expressway,16.538341,79.798918
+1881,552002,Elchuru Toll Plaza,DBFOT,State,Elchuru,Andhra Pradesh,NAM Expressway,16.107077,79.928762
+1882,320131,Tarwa Deva,PF,National,Mainpuri,Uttar Pradesh,NHAI,27.19587,79.36699
+1883,330121,Balana Toll Plaza,PF,National,Pali,Rajasthan,NHAI,25.293327,73.085753
+1884,545102,Durjanpura Toll Plaza,PF,State,Durjanpura,Madhya Pradesh,NHAI,22.475387,75.571802
+1885,556032,Harpanahalli Toll Plaza,Conc.,State,Hadagali,Karnataka,NHAI,14.806217,75.975065
+1886,556033,Mundaragi Toll Plaza,Conc.,State,Mundargi,Karnataka,NHAI,15.138206,75.889905
+1887,375027,Rangamatia Toll Plaza,PF,National,Daspalla,Odisha,NHAI,20.365667,84.793588
+1888,378011,Balachera Toll Plaza,PF,National,Cachar,Assam,NHAI,24.946609,92.756356
+1889,378012,Galia Toll Plaza,PF,National,Galia,Assam,NHAI,26.442682,91.048867
+1890,545103,Mandleswar Toll Plaza,Conc.,State,Indore,Madhya Pradesh,MHOW AGROH,22.280472,75.695583
+1891,545095,Mubarakpur Toll Plaza,Conc.,State,Bhopal,Madhya Pradesh,Banco Constructions,23.310689,77.319815
+1892,326009,Jagtapur Patti Toll Plaza,PF,National,Jaspur,Uttarakhand,NHAI,29.244179,78.884934
+1893,352058,Jawahar Nagar Toll Plaza,PF.,National,Mulugu,Telangana,NHAI,18.212011,80.0284
+1894,313004,Bass Toll Plaza,PF.,National,Bass,Haryana,NHAI,29.127304,76.209427
+1895,392019,Edalhatu Toll Plaza,PF.,National,Ranchi,Jharkhand,NHAI,23.1806311,85.5742348
+1896,545085,GVR Behari Toll Plaza,Conc,State,Rewa,Madhya Pradesh,GVR BEHARI,24.742577,82.109536
+1897,313005,Bisalwas Toll Plaza,PF,National,Jhajjar,Haryana,NHAI,28.468107,75.889119
+1898,545100,Bajrangarh Toll Plaza,Conc,State,Guna,Madhya Pradesh,Bansal Pathways Guna Sironj,24.575655,77.286901
+1899,545101,Kalyanpura Toll Plaza,Conc,State,Sironj,Madhya Pradesh,Bansal Pathways Guna Sironj,24.127005,77.650435
+1900,320132,ATRAILA SHIV GULAM Toll,PF,National,Lalganj,Uttar Pradesh,NHAI,24.960572,82.276151
+1901,545098,Harduwani (Damoh)Toll Plaza,Conc.,State,Damoh,Madhya Pradesh,Bansal Pathways Damoh Katni,23.849222,79.60967
+1902,545099,Majhagawan (Katni)Toll Plaza,Conc.,State,Katni,Madhya Pradesh,Bansal Pathways Damoh Katni,23.884352,80.338989
+1903,352059,Dukkavanipalem Toll Plaza,PF,National,Visakhapatnam,Andhra Pradesh,NHAI,17.888226,83.345101
+1904,352060,Marripalem Toll Plaza,PF,National,Visakhapatnam,Andhra Pradesh,NHAI,17.747445,83.069029
+1905,314035,Ludana Toll Plaza,PF,National,Jind,Haryana,NHAI,29.241281,76.518039
+1906,314036,Kala Tibba Toll Plaza,PF.,National,Abohar,Punjab,NHAI,30.10491678,74.26080263
+1907,314034,Shekhpura Toll Plaza,PF.,National,Talwandi Sabo,Punjab,NHAI,29.9888,75.1378
+1908,340038,Selu Toll Plaza,PF.,National,Kalmeshwar,Maharashtra,NHAI,21.193194,78.896639
+1909,350102,Chitlapalli Toll Plaza,PF.,National,Chitlapalli,Telangana,NHAI,17.0811,77.581
+1910,314032,Jagjitpura Toll Plaza,PF.,National,Barnala,Punjab,NHAI,30.4024658,75.4396511
+1911,545104,Tarapoungi plaza,PF.,National,Raipur,Chhattisgarh,NHAI,21.48295722,81.69098972
+1912,350101,Munnanur Toll Plaza,PF,National,Munnanur,Telangana,NHAI,16.74550985,78.28531698
+1913,340039,Karodi Toll Plaza,PF.,National,Aurangabad,Maharashtra,NHAI,19.8902365,75.1981289
+1914,320113,Itora Buzurg,PF,National,Raebareilly,Uttar Pradesh,NHAI,25.9996,81.285787
+1915,356030,Tidagundi,BOT.,National,Vijayapura,Karnataka,Vijayapura Toll pass,17.00835,75.75887
+1916,540032,Nandani Toll Plaza,BOT.,National,Solapur,Maharashtra,Vijayapura Toll pass,17.472901,75.855225
+1917,318010,Mada Toll Plaza,PF.,National,Ramban,J&K,NHAI,33.1304683,75.2941524
+1918,336023,Bhordu Toll Plaza,PF,National,Bhordu,Gujarat,NHAI,24.494001,72.268802
+1919,336024,Panthawada Toll Plaza,PF,National,Panthawada,Gujarat,NHAI,24.447519,71.752014
+1920,556024,Link Road (L1) Toll,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,12.936583,77.5315
+1921,556025,Hosur Road (P1) Toll,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,12.858667,77.655833
+1922,556026,Tumkur Road (P7) Toll,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,13.042389,77.475278
+1923,556027,Bannerghatta Road (P2) Plaza,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,12.850056,77.588333
+1924,556028,Kanakapura Road (P3) Plaza,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,12.857833,77.527583
+1925,556029,Clever Leaf (P4) Plaza,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,12.884139,77.501694
+1926,556030,Mysore Road (P5) Plaza,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,12.903583,77.470028
+1927,556031,Magadi Road (P6) Plaza,Conc,State,Bengaluru,Karnataka,Nandi Economic Corridor,12.989944,77.472444
+1928,552003,SAPTGIRI Toll Plaza,Conc.,State,Tirupati town,Andhra Pradesh,Com vision India Expressway,13.6473,79.4021
+1929,560014,Kolappancheri,PF,State,Chennai,Tamil Nadu,TNRDC,13.070524,80.071587
+1930,560015,Varadharajapuram,PF,State,Chennai,Tamil Nadu,TNRDC,12.9300926,80.0799475
+1931,560016,Palavedu,PF,State,Chennai,Tamil Nadu,TNRDC,13.140047,80.0530363
+1932,560017,Chinnamullaivoyal,PF,State,Chennai,Tamil Nadu,TNRDC,13.253075,80.2387214
+1933,314033,Chahar Toll Plaza,PF,National,Ludhiana,Punjab,NHAI,30.9887,75.7908
+1934,330123,Kathuwas Toll Plaza,PF.,National,Alwar (Behror),Rajasthan,NHAI,28.141642,76.360442
+1935,350104,Dharmaram Toll Plaza,PF.,National,Pitlam,Telangana,NHAI,18.2658,77.7871
+1936,545089,Badi Baktara Toll Plaza,Conc.,State,Shahganj,Madhya Pradesh,Badi Baktara Toll,22.879111,77.830472
+1937,345080,Harshili Toll Plaza,PF,National,Raisen,Madhya Pradesh,NHAI,23.018177,78.121077
+1938,375028,Khireitangiri Toll Plaza,PF,National,Khireitangiri,Odisha,Montecarlo Singhara Binjabaha,21.705647,85.697266
+1939,375029,Janasanpur Toll Plaza,PF,National,Janasanpur,Odisha,Montecarlo Singhara Binjabaha,21.448549,85.373375
+1940,540026,Yelgaon Toll Plaza,BOT,State,Yelgaon Village,Maharashtra,Buldana Urban Credit Co-op,20.47821,76.20938
+1941,540027,Datala Toll Plaza,BOT,State,Datala Village,Maharashtra,Buldana Urban Credit Co-op,20.82554091,76.2021409
+1942,345081,Shahpura Toll Plaza,PF,National,Jabalpur,Madhya Pradesh,NHAI,23.1501,79.7212
+1943,556034,Sanikoppa Toll Plaza,Conc.,State,Bailhongal,Karnataka,JYOTHI PRAKSH KM,15.800694,74.804861
+1944,556035,Karikatti Toll Plaza,Conc.,State,Soundatti,Karnataka,JYOTHI PRAKSH KM,15.738306,75.063639
+1945,320133,Lohari Toll Plaza,PF,National,Jhansi,Uttar Pradesh,Balaji Enterprises,25.343778,78.916861
+1946,345082,Khiriya Fee Plaza,PF,National,Raisen,Madhya Pradesh,M/s Vanshika Construction,23.087748,78.486994
+1947,340040,Undri Toll Plaza,PF,National,Undri,Maharashtra,MD Yousuf,20.439943,76.459241
+1948,314037,Ferozeshah Toll Plaza,PF,National,Ferozepur,Punjab,NHAI,30.8695,74.7731
+1949,520009,Bajna Ramp Toll Plaza,BOT,State,Mathura,Uttar Pradesh,Jaypee Infratech Ltd,27.883269,77.666004
+1950,314038,Balluana Toll Plaza,PF,National,Bhatinda,Punjab,Mahender Godara,30.22749,74.763624
+1951,336025,Bhadbhid Fee Plaza,PF,National,Bhavnagar,Gujarat,Ganeshgarhia Construction,21.985168,72.09187
+1952,352061,Thenepalli Plaza,PF,National,Thenepalli,Andhra Pradesh,NHAI,13.375431,79.078265
+1953,312048,Jharoti Toll Plaza,PF,National,Sonipat,Haryana,Jai Singh and Company,28.9225,76.95248
+1954,367007,Paniyankara Toll Plaza,Conc.,National,Vadakkencherry,Kerala,Thrissur Expresway Ltd,10.590814,76.458274
+1955,536017,Vataman Toll Plaza,PF,State,Vataman,Gujarat,MAXLINK,22.50433,72.42652
+1956,345083,Newli Fee Plaza,Conc.,National,Vidisha,Madhya Pradesh,Anil Kumar Shukla,24.154715,78.064432
+1957,356107,Halligudi Fee Plaza,PF,National,Halligudi,Karnataka,BSCPL Infrastructure Ltd,15.3909,75.8551
+1958,356106,Nalavadi,PF,National,Nalavadi,Karnataka,SRI SAI ENTERPRISES,15.36987202,75.35744633
+1959,312047,Ghamroj Sohna Road Toll Plaza,Conc.,National,Gurugram,Haryana,H G INFRA,28.3336041,77.0673886
+1960,320134,Belgada Toll Plaza,PF,National,Gorakhpur,Uttar Pradesh,NHAI,27.11918695,82.89602275
+1961,320112,Kashi Plaza DME KM 5823,PF,National,Meerut,Uttar Pradesh,NHAI,28.896616,77.64537
+1962,352062,Danamaiahgaaripalli Toll Plaza,PF,National,Danamaiahgaripalli,Andhra Pradesh,NHAI,13.036175,78.515049
+1963,375030,Kandra Toll Plaza,PF,National,Kandra,Odisha,Montecarlo Singhara,22.052105,85.494152
+1964,552004,Kovvuru,Conc.,State,Vijayawada,Andhra Pradesh,Rajamundry Godavari Bridge Ltd,17.02729,81.719536
+1965,320136,Hitouta Toll Plaza,PF,National,Khutar,Uttar Pradesh,NHAI,28.264748,80.250888
+1966,320135,Sarai Sundarpur Fee Plaza,Conc.,National,Pillibhit,Uttar Pradesh,Anil Kumar Shukla,28.578965,79.862811
+1967,330127,Chhoti Villor Fee Plaza,PF,National,Sanchore,Rajasthan,NHAI,24.674,71.8271
+1968,356108,Jajirakallu Toll Plaza,Conc.,National,Jajirakallu,Karnataka,Sri Sai Enterprises,14.98163,76.834694
+1969,536018,Vadodra Toll Plaza,Conc.,State,Vadodra,Gujarat,Gujarat Road and Infra Co Ltd,22.353256,73.236924
+1970,536019,Halol Toll Plaza,Conc.,State,Halol,Gujarat,Gujarat Road and Infra Co Ltd,22.489873,73.465586
+1971,540504,MR-10 Toll Plaza,Conc.,State,Indore,Madhya Pradesh,PRAKASH ASPHALTINGS & TOLL HWY,22.775572,75.860314
+1972,520010,Mahurakalan,Conc.,State,Lucknow,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.71993,81.130183
+1973,520011,Gharkuiya,Conc.,State,Barabanki,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.613176,81.395713
+1974,520012,Unchgaon,Conc.,State,Raebareilly,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.572702,81.558692
+1975,520013,Haliyapur,Conc.,State,Sultanpur,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.512581,81.766916
+1976,520014,Kurebhar,Conc.,State,Sultanpur,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.389542,82.126251
+1977,520015,Semri,Conc.,State,Sultanpur,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.356825,82.260675
+1978,520016,Dostpur,Conc.,State,Sultanpur,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.282603,82.474925
+1979,520017,Bhelara,Conc.,State,Sultanpur,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.226938,82.670703
+1980,520018,Fulvariya,Conc.,State,Azamgarh,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.159909,82.862836
+1981,520019,Sehda,Conc.,State,Azamgarh,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.114701,83.134473
+1982,520020,Sathiyon,Conc.,State,Azamgarh,Uttar Pradesh,Prakash Asphalting & Toll Hwys,26.043438,83.277038
+1983,520021,Raipur-Baghpur,Conc.,State,Ghazipur,Uttar Pradesh,Prakash Asphalting & Toll Hwys,25.834083,83.564128
+1984,520022,Belsari,Conc.,State,Ghazipur,Uttar Pradesh,Prakash Asphalting & Toll Hwys,25.637696,83.839836
+1985,536020,Adalaj Toll Plaza,Conc.,State,Adalaj,Gujarat,Gujarat Road and Infra Co Ltd,23.18649,72.5602
+1986,536021,Mehsana Toll Plaza,Conc.,State,Mehsana,Gujarat,Gujarat Road and Infra Co Ltd,23.52749,72.38813
+1987,352063,Bandlapalli Toll Plaza,PF,National,Bandlapalli,Andhra Pradesh,NHAI,13.336395,78.612892
+1988,330130,Binaswas Toll Plaza,PF,National,Bilara,Rajasthan,NHAI,26.121857,74.062484
+1989,330129,Biratiya Toll Plaza,PF,National,Jaitaran,Rajasthan,NHAI,26.121857,74.062484
+1990,312049,Karman Toll Plaza,DBFOT,National,Palwal,Haryana,DA Toll Road Pvt Ltd,27.85546,77.40264
+1991,312050,Gadpuri Toll Plaza,DBFOT,National,Palwal,Haryana,DA Toll Road Pvt Ltd,28.24923826,77.29142359
+1992,330124,Gangajali Toll Plaza,PF,National,Poogal,Rajasthan,NHAI,28.475248,72.61884
+1993,345088,Bansa (Damoh) Toll Plaza,Conc.,State,Damoh,Madhya Pradesh,RSI STONE WORLD PVT LTD,23.805957,79.370837
+1994,330125,Seora Toll Plaza,PF,National,Bap,Rajasthan,NHAI,27.51125,72.279986
+1995,330126,Barsalpur Toll Plaza,PF,National,Goru,Rajasthan,NHAI,28.047877,72.349573
+1996,381000,Managethi Toll Plaza,PF,National,Ariyalur,Tamil Nadu,Kallagam Meensurutti Hwy Pvt,11.14185,79.242155
+1997,345091,Talen Mirzapur Toll Plaza,PF,National,Rajgarh,Madhya Pradesh,Anil Kumar Shukla,23.585443,76.737047
+1998,345086,Bhopal Vidisha Toll Plaza,Conc.,State,Sukhisewania,Madhya Pradesh,R.M.N. Tollways Pvt Ltd,23.37114,77.50287
+1999,540059,Limbe Toll Plaza,Conc.,State,Aurangabad,Maharashtra,Keti Sangam Infra,19.779805,75.194678
+2000,360062,Kallakudi Toll Plaza,Conc.,National,Kallakudi,Tamil Nadu,KNR Srirangam Infra Pvt Ltd,10.99696,78.96709
+2001,345090,Sarasdol Toll Plaza,PF,National,Jabalpur,Madhya Pradesh,NHAI,23.115915,79.049163
+2002,340042,Hativale Fee Plaza,PF,National,Hativale,Maharashtra,KCC Buildcon Pvt. Ltd.,16.611829,73.545512
+2003,360060,Kodikottai Toll Plaza,PF,National,Manjani,Tamil Nadu,MD YOUSUF ALI,9.887952,78.8477
+2004,360061,Vennathur Toll Plaza,PF,National,Manjani,Tamil Nadu,MD YOUSUF ALI,9.542493,78.863225
+2005,330128,Beer Mandi Toll Plaza,PF,National,Suket,Rajasthan,Patel Darah Jhalawar Highway,24.642639,76.027472
+2006,345087,Chanatoriya (Sagar) Toll Plaza,Conc.,State,Sagar,Madhya Pradesh,RSI STONE WORLD PVT LTD,23.88747,78.87
+2007,340044,Chachadgaon Toll Plaza,PF,National,Nashik,Maharashtra,NHAI,20.223616,73.664849
+2008,312051,Chandlana Toll Plaza,PF,National,Chandlana,Haryana,NHAI,29.861128,76.641341
+2009,312052,Mohna Toll Plaza,PF,National,Mohna,Haryana,NHAI,29.650296,76.559183
+2010,312053,Kheri Sharaf Ali Toll Plaza,PF,National,Kheri Sharaf Ali,Haryana,NHAI,29.552076,76.534499
+2011,312054,Bahri Toll Plaza,PF,National,Bahri,Haryana,NHAI,29.485337,76.512439
+2012,312055,Amrawali Khera Toll Plaza,PF,National,Amrawali Khera,Haryana,NHAI,29.366693,76.481095
+2013,312057,Kilazafargarh Toll Plaza,PF,National,Kilazafargarh,Haryana,NHAI,29.098408,76.425469
+2014,312058,Bainsi Toll Plaza,PF,National,Bainsi,Haryana,NHAI,29.026614,76.399856
+2015,312059,Kharkhara Toll Plaza,PF,National,Kharkhara,Haryana,NHAI,28.926778,76.376
+2016,312060,Kherari Toll Plaza,PF,National,Kherari,Haryana,NHAI,28.826478,76.348169
+2017,312061,Dadri Toll Plaza,PF,National,Dadri,Haryana,NHAI,28.606077,76.304827
+2018,312062,Buchawas Toll Plaza,PF,National,Buchawas,Haryana,NHAI,28.304683,76.223563
+2019,312064,Jat Guwana Toll Plaza,PF,National,Jat Guwana,Haryana,NHAI,28.121286,76.179413
+2020,312065,Pabanawa Toll Plaza,PF,National,Pabanawa,Haryana,NHAI,29.904809,76.646841
+2021,345089,Ghatabillod Toll Plaza,Conc.,State,Pithampur,Madhya Pradesh,MPRDC,22.64411,75.568497
+2022,340045,Dhumka Tondgaon Toll Plaza,PF,National,Washim,Maharashtra,NHAI,20.01351,77.13994
+2023,340043,Champa Toll Plaza,PF,National,Nagpur,Maharashtra,NHAI,20.96707,79.204168
+2024,540028,Kopra Kharghar Toll Plaza,Conc.,State,Navi Mumbai,Maharashtra,Sahakar Global Ltd.,19.037473,73.078256
+2025,545106,Mudiyapara Fee Plaza,PF,National,Bodla,Chhattisgarh,NHAI,22.155822,81.228744
+2026,540029,SPTPL Navi Mumbai,Conc.,State,Navi Mumbai,Maharashtra,Sahakar Global Ltd.,19.029739,73.089815
+2027,570024,Khanpur Toll,Conc.,State,Jhalawar,Rajasthan,RIDCOR Ltd,24.657272,76.315022
+2028,570035,Ujjain-Jhalawar(Binda),Conc.,State,Jhalawar,Rajasthan,RIDCOR Ltd,24.418694,76.188203
+2029,570039,MB(Gundwa),Conc.,State,Bharatpur,Rajasthan,RIDCOR Infra Project Ltd,27.248519,77.469328
+2030,570040,GB (Newadiya),Conc.,State,Sawai Madhopur,Rajasthan,RIDCOR Infra Project Ltd,26.378622,76.546867
+2031,375031,Jharpokharia Toll Plaza,PF,National,Jharpokharia,Odisha,NHAI,22.180518,86.636253
+2032,545107,Limha Toll Plaza,PF,National,Bilaspur,Chhattisgarh,BPRPL / Adani,22.289296,82.30303
+2033,392020,Pata Toll Plaza,Conc,National,Chandil,Jharkhand,NHAI,22.930225,86.063708
+2034,520030,ALEP Ramp Plaza 133,Conc.,State,Etawah,Uttar Pradesh,Sahakar Global Ltd,26.909319,79.331535
+2035,570032,KK Toll Plaza,Conc.,State,Alwar,Rajasthan,RIDCOR Ltd,28.105358,76.70805
+2036,312066,Bamla Toll Plaza,PF,National,Bhiwani,Haryana,NHAI,28.8048,76.2232
+2037,570027,Jetpur Toll Plaza,Conc.,State,Bikaner,Rajasthan,RIDCOR Ltd,28.886175,74.019717
+2038,570028,Sangaria Toll Plaza,Conc.,State,Bikaner,Rajasthan,RIDCOR Ltd,29.720628,74.438664
+2039,340046,Ankadhal,PF,National,Solapur,Maharashtra,NHAI,17.35945,75.079423
+2040,360066,Enamkariyandal Toll Plaza,PF,National,Tiruvannamalai,Tamil Nadu,M/s Jai Kamatanath & Company,12.287294,79.06909
+2041,360067,Thennamadevi Toll Plaza,PF,National,Tiruvannamalai,Tamil Nadu,M/s Jai Kamatanath & Company,11.989279,79.475046
+2042,340047,Ichgaon,PF,National,Ichgaon,Maharashtra,NHAI,17.592193,75.591492
+2043,540041,Malegaon Toll Plaza,PF,State,Washim,Maharashtra,NMSCEL,20.283102,76.972215
+2044,540043,Dusarbid Toll Plaza,PF,State,Buldhana,Maharashtra,NMSCEL,20.034216,76.31799
+2045,540047,Sawangi Toll Plaza,PF,State,Aurangabad,Maharashtra,NMSCEL,19.967322,75.378833
+2046,540048,Maliwada Toll Plaza,PF,State,Aurangabad,Maharashtra,NMSCEL,19.940412,75.164195
+2047,540049,Hadas Pimpalgaon Toll Plaza,PF,State,Aurangabad,Maharashtra,NMSCEL,19.931252,74.950029
+2048,540050,Ghaigaon Jambargaon Toll Plaza,PF,State,Aurangabad,Maharashtra,NMSCEL,19.893828,74.784524
+2049,540051,Kokmathan Toll Plaza,PF,State,Aurangabad,Maharashtra,NMSCEL,19.84029,74.473085
+2050,540033,Waifal Toll Plaza,PF,State,Nagpur,Maharashtra,NMSCEL,20.978788,78.932204
+2051,540035,Yelkali Toll Plaza,PF,State,Wardha,Maharashtra,NMSCEL,20.802832,78.597029
+2052,540036,Virul Toll Plaza,PF,State,Wardha,Maharashtra,NMSCEL,20.791275,78.351523
+2053,540037,Dhamangaon Toll Plaza,PF,State,Amravati,Maharashtra,NMSCEL,20.737368,78.140779
+2054,540039,Karanja Lad Toll Plaza,PF,State,Washim,Maharashtra,NMSCEL,20.51565,77.459831
+2055,540040,Shelu Bazar/Wanoza Toll Plaza,PF,State,Washim,Maharashtra,NMSCEL,20.391363,77.222332
+2056,540045,Nidhhona Toll Plaza,PF,State,Jalna,Maharashtra,NMSCEL,19.884275,75.845577
+2057,540046,Shendra MIDC Toll Plaza,PF,State,Aurangabad,Maharashtra,NMSCEL,19.906443,75.48958
+2058,352064,Cholasamundram Toll Plaza,PF,National,Hindupur,Andhra Pradesh,NHAI,13.811786,77.576451
+2059,570041,Bahala Toll Plaza,PF,National,Alwar,Rajasthan,NHAI,27.5273,76.7169
+2060,570033,Ralayati KM 9 Toll Plaza,Conc.,State,Jhalawar,Rajasthan,RIDCOR Ltd,24.562992,76.114578
+2061,570034,Rajpura KM 24 Toll Plaza,Conc.,State,Jhalawar,Rajasthan,RIDCOR Ltd,23.957803,75.860369
+2062,570016,Kolu Toll Plaza,Conc.,State,Jodhpur,Rajasthan,RIDCOR Ltd,26.904603,72.312525
+2063,570017,Kelankot Toll Plaza,Conc.,State,Barmer,Rajasthan,RIDCOR Ltd,26.108914,72.376761
+2064,570018,Bhooka Toll Plaza,Conc.,State,Barmer,Rajasthan,RIDCOR Ltd,25.640861,72.000211
+2065,570019,Naya Nagar Toll Plaza,Conc.,State,Barmer,Rajasthan,RIDCOR Ltd,25.248178,71.733328
+2066,570025,Sikandra Toll,Conc.,State,Dausa,Rajasthan,RIDCOR Ltd,26.978589,76.573914
+2067,570026,Mahuwa Toll,Conc.,State,Alwar,Rajasthan,RIDCOR Ltd,27.457686,76.607661
+2068,570029,Papri Toll,Conc.,State,Alwar,Rajasthan,RIDCOR Ltd,27.714361,76.742856
+2069,570030,Tijara Toll,Conc.,State,Alwar,Rajasthan,RIDCOR Ltd,27.922797,76.838581
+2070,570031,Bhiwadi Toll,Conc.,State,Alwar,Rajasthan,RIDCOR Ltd,28.174303,76.824531
+2071,570010,Kasari Toll Plaza,Conc.,State,Nagaur,Rajasthan,RIDCOR Ltd,27.023008,74.811117
+2072,570011,Chapri Toll Plaza,Conc.,State,Nagaur,Rajasthan,RIDCOR Ltd,27.349756,74.671431
+2073,570012,Padiyara Toll Plaza,Conc.,State,Churu,Rajasthan,RIDCOR Ltd,27.916553,74.554469
+2074,570013,Malasar Toll Plaza,Conc.,State,Churu,Rajasthan,RIDCOR Ltd,28.262625,74.565161
+2075,570014,Pallu Toll Plaza,Conc.,State,Hanumangarh,Rajasthan,RIDCOR Ltd,28.951956,74.225031
+2076,570036,Toparia Toll Plaza,Conc.,State,Hanumagarh,Rajasthan,RIDCOR Infra Project Ltd,29.277272,74.631967
+2077,570037,Gogamedi Toll Plaza,Conc.,State,Hanumagarh,Rajasthan,RIDCOR Infra Project Ltd,29.134011,75.058531
+2078,570038,Amarpura Toll Plaza,Conc.,State,Hanumagarh,Rajasthan,RIDCOR Infra Project Ltd,29.085436,75.320028
+2079,570020,Bagdi KM 14 Toll Plaza,Conc.,State,Dausa,Rajasthan,RIDCOR Ltd,26.43195,76.373506
+2080,570021,Bhadoti Toll Plaza,Conc.,State,Sawai Madhopur,Rajasthan,RIDCOR Ltd,26.224711,76.370728
+2081,570022,Indragarh Toll Plaza,Conc.,State,Bundi,Rajasthan,RIDCOR Ltd,25.743931,76.168992
+2082,570023,Patan Gudla Plaza,Conc.,State,Bundi,Rajasthan,RIDCOR Ltd,25.2856,75.897097
+2083,360064,Upparpatti,PF,National,Upparpatti,Tamil Nadu,NHAI,9.942242,77.419467
+2084,520023,RTP36 Yamuna Toll Plaza,Conc.,State,Jewar,Uttar Pradesh,M/s. Jaypee Infratech Ltd,28.141426,77.574548
+2085,360068,Thirupathisaram Toll Plaza,PF,National,Nagercoil,Tamil Nadu,NHAI,8.206201,77.460289
+2086,2010,Ahmedabad Ring Road 2,Conc.,National,Ahmedabad,Gujarat,IRB,22.9713406,72.6613226
+2087,520032,Jorwara Toll Plaza,PF,National,Jorwara,Uttar Pradesh,NHAI,25.246369,81.2754626
+2088,570047,Karel Toll Plaza,PF,National,Udaipur,Rajasthan,NHAI,24.2128,73.3524
